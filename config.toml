@@ -1,0 +1,28 @@
+baseURL = "https://nolwenndeumie.github.io/"
+languageCode = "fr"
+title = "Linguistique"
+theme = "hugo-royal-theme"
+
+[social]
+twitter = "IWannaSlytherIn"
+
+[[menu.global]]
+name = "Twitter"
+weight = 1
+identifier = "twitter"
+url = "https://twitter.com/IWannaSlytherIn"
+
+[[menu.docs]]
+name = "Introduction"
+weight = 10
+identifier = "introduction"
+
+[[menu.docs]]
+name = "GitHub"
+weight = 15
+identifier = "meta"
+
+[[menu.docs]]
+name = "Code source"
+parent = "meta"
+url = "https://github.com/NolwennDeumie/linguistique"
