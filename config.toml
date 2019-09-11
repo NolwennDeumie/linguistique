@@ -13,9 +13,9 @@ identifier = "twitter"
 url = "https://twitter.com/IWannaSlytherIn"
 
 [[menu.docs]]
-name = "Introduction"
+name = "Sommaire"
 weight = 10
-identifier = "introduction"
+identifier = "sommaire"
 
 [[menu.docs]]
 name = "GitHub"
