@@ -285,7 +285,14 @@ header {
     }
 
     blockquote {
-        color: rgb(26, 105, 223);
+        color: #1a69df;
+        font-style: italic;
+    }
+
+    del {
+        text-decoration: none;
+        color: #1a69df;
+        font-style: italic;
     }
 
     table {

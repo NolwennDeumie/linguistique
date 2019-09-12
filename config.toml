@@ -1,10 +1,11 @@
 baseURL = "https://nolwenndeumie.github.io/"
 languageCode = "fr"
+DefaultContentLanguage = "fr"
 title = "Linguistique"
 theme = "hugo-royal-theme"
 
 [social]
-twitter = "IWannaSlytherIn"
+twitter = "iWannaSlytherIn"
 
 [[menu.global]]
 name = "Twitter"
