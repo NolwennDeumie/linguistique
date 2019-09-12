@@ -359,6 +359,18 @@ Il s’agit d’une construction utilisant la négation *NOT*, laquelle s’appu
 Autre règle importante : NOT est obligatoirement placé après le premier auxiliaire.
 ~~He may **not** have been at home~~ et surtout pas ~~He may have not been at home~~.
 
+#### Constructions interro-négatives
+
+Cette construction, qui associe à *NOT* la structure “auxiliaire-sujet”, pose le problème de la place de la négation. Si le sujet est un **pronom**, il y a deux possibilités.
+
+~~Isn’t he English ?~~ NB: avec cet ordre des mots, la contraction est obligatoire.
+
+~~Is he not English ?~~  NB: niveau de langue recherché ou volonté d’insistance sur la négation.
+
+Si le sujet n’est pas un pronom, on peut trouver, dans un style recherché ou dans une volonté d’insister sur la négation, la tournure ~~Is not the writer English ?~~, mais on utilisera plus souvent le même ordre des mots qu’avec un pronom (i.e. ~~Isn’t the writer English ? Is the writer not English ?~~).
+
+Pour la première personne du singulier de BE, la forme interro-négative contractée est ~~aren’t I~~ /’αːntaɪ/ : à ~~Am I not English ?~~ (niveau de langue recherché) correspond ~~Aren’t I English ?~~ (niveau de langue non recherché).
+
 #### Constructions emphatiques
 
 > “I don’t know if he enjoyed the party.” “Oh, I’m sure he did enjoy it.”
@@ -409,10 +421,89 @@ Dans certaines variétés d’anglais, notamment l’anglais britannique, on peu
 
 > “I wonder if he liked the film.” “I’m sure he ↘DID.”
 
-> “Are there any difficulties ?” “Yes, there ↘ARE.”
+> "I'm afraid Ken didn't like the film." "But he ↘DID!" 
 
-Cas particulier : reprise interro-négative pour exprimer une approbation. ~~“The weather’s really gorgeous !” “Yes, it is, ↘ISn’t it ?”~~
+..- Mais si ! Remarquez qu'en français, le passage du négatif au positif est indiqué par "si", et en anglais par l'accentuation de l'auxiliaire.
+
+> “Are there any difficulties ?” “Yes, there ↘ARE.” 
+
+Cas particulier : reprise interro-négative pour exprimer une approbation avec une intonation obligatoirement descendante et parfois à la suite d'une reprise déclarative. ~~“The weather’s really gorgeous !” “Yes, it is, ↘ISn’t it ?”~~
 
 - Question posée par l’interlocuteur.
 
 > “I’ve sold my motorbike.” “Have you ?”
+
+Les termes déjà introduits sont repris sous forme de question. L'intonation peut être montante ou descendante et plus ou moins creusée. On obtient donc des sens très variés : faible intérêt (Ah bon ?), faible surprise (Vraiment ? Tiens donc.), mise en doute, grande surprise, indignation (Pas possible ! Sans blague !). 
+
+- Modification de tous les termes (orientation et sujet)
+
+> ~~"I think Ken liked the film." "But ↘TIna ↗DIDn't. / ↘TIna ↘DIDn't."~~ 
+
+> ~~"Ken didn't like the film, but ↘I ↗DID. / ↘I ↘DID."~~ 
+
+Remarquez la possibilité d'une double accentuation, qui correspond à l'introduction d'un nouveau GN sujet en même temps que d'une nouvelle orientation. L'énonciateur ouvre ou ferme la discussion selon que l'intonation du dernier élément est montante ou descendante.
+
+- Construction *so* + GN sujet + auxiliaire
+
+Sert à exprimer une confirmation étonnée. L'interlocuteur reprend (mais sous la forme d'un pronom et d'un auxiliaire) tous les termes introduits précédemment : 
+
+~~"Someone has been trying to open the door." "So they ↘HAVE !"~~ Quelqu'un a essayé d'ouvrir la porte. -En effet ! / Mais c'est vrai ! 
+
+- Reprises interrogatives (~~"question tags"~~), cas général
+
+Il n'y a pas de changement de locuteur. L'intonation est descendante quand il ne s'agit pas véritablement d'une question (appel à l'interlocuteur pour attirer son attention, obtenir une simple confirmation, etc.).
+
+~~"Fred likes tennis, ↘DOESn't he ? / ↗DOESn't he ?"~~ Fred aime le tennis, hein ? / non ? / n'est-ce pas ? / pas vrai ? 
+
+~~"Nice morning, ↘ISn't it ?"~~ Intonation obligatoirement descendante, il ne peut s'agir véritablement d'une question.
+
+Les ~~"question tags"~~ sont beaucoup plus utilisés que leurs équivalents français. En règle générale, la reprise est **négative** (interro-négation) après un GV **positif**, et **positive** après un GV **négatif** (ou contenant une idée de négation, avec des mots tels que ~~hardly~~ ou ~~few~~ : ~~"there was very little traffic, was there ?~~).
+
+- Reprises interrogatives, cas particuliers
+
+Pour produire certains effets tels que l'ironie ou la surprise, on peut faire suivre un GV positif par une reprise également positive, c'est ce qu'on appelle les ~~"same way tags"~~.
+
+> "So you've lost your ↘PASSport, ↗HAVE you ?"
+
+Autre cas particulier de ~~"same way tags"~~, la reprise est précédée de **or** et sert à introduire un doute dans ce qui vient d'être affirmé.
+
+>"He had decided to leave. Or ↘HAD he? Two days later he was still there."
+
+Dans la langue familière, il existe une forme de reprise voisine du ~~"question tag"~~ (elle est en fait exclamative mais parfois proche de l'interrogation).
+
+> "He gave them a piece of mind, Tim did!"
+
+Il y a une différence de forme avec les ~~"question tags"~~ : la reprise est formée par un GN qui explicite le pronom sujet de la proposition précédente, et ce GN précède l'auxiliaire.
+Si l'auxiliaire est BE, on peut cependant avoir l'ordre interrogatif :
+
+> "He was a dying breed, was Cruz, Carriscant reflectef." (W. Boyd, The Blue Afternoon)
+
+- Question avec changement de sujet
+
+On pose une vraie question (avec une intonation montante), à propos d'un nouveau GN sujet.
+
+~~"I prefer this one. Don't ↗YOU ?"~~ Je préfère celui-ci. Pas vous ?
+
+La question peut également porter sur l'identité du sujet.
+
+> "He'd like to meet you, by the way." "WHO does ?"
+
+- Ajout d'une remarque, avec changement d'auxiliaire
+
+> "I've never played football, and I never ↘WILL."
+
+- Construction ***so*** / ***neither*** / ***nor*** + auxiliaire + GN sujet
+
+NB : Ne pas confondre avec la construction ***so*** + GN sujet + auxiliaire.
+
+Le locuteur peut être le même, ou différent. Reprise de l'orientation (oui/non) mais changement du GN sujet, mis en relief en fin de phrase grâce à l'inversion. ~~So~~ / ~~neither~~ / ~~nor~~ et l'auxiliaire portent un accent secondaire.
+
+> "He sent us a postcard, and 'so 'did his ↘BROther."
+
+> "They haven't got a car." " 'Neither / 'Nor 'have ↘WE."
+
+- Construction GN sujet + auxiliaire + ***too*** / ***either***
+
+Sens identique à celui de la construction précédente. 
+
+> "He sent us a postcard, and his 'brother 'did ↘TOO."
