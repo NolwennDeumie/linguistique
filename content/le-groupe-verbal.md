@@ -31,7 +31,7 @@ Prenons EAT. On peut trouver ce verbe sous 5 formes :
 
 Notons à propos de l’infinitif qu’il faut distinguer l'infinitif sans *TO*, ou infinitif proprement dit, et l’infinitif précédé de *TO*, ou *TO* + V.
 
-Le mot ***TO*** joue un rôle particulier : parfois c’est une **préposition** (~~I’m going to London~~), parfois c’est la **particule infinitive**. Il faut distinguer ces deux valeurs syntaxiques mais ne pas oublier que **le changement de valeur syntaxique ne change pas le sens fondamental** de TO (à savoir un “mouvement vers”), que l’on retrouve tant dans la préposition que dans la particule infinitive.
+{{% small %}} Le mot ***TO*** joue un rôle particulier : parfois c’est une **préposition** (~~I’m going to London~~), parfois c’est la **particule infinitive**. Il faut distinguer ces deux valeurs syntaxiques mais ne pas oublier que **le changement de valeur syntaxique ne change pas le sens fondamental** de TO (à savoir un “mouvement vers”), que l’on retrouve tant dans la préposition que dans la particule infinitive. {{% /small %}}
 
 
 ### Valeurs sémantiques des formes du verbe
@@ -245,7 +245,7 @@ Ce tableau appelle plusieurs commentaires.
 -   Comme on le voit, tout GV à l’indicatif est **nécessairement** au **présent** ou au **prétérit**. Du point de vue syntaxique, il n’y a en anglais que ces deux temps (rappel : ~~tense~~ désigne un temps syntaxique).
 
 
-Les éléments HAVE + -EN ou BE + -ING, *WILL*, *SHALL*, etc. ne sont **pas** des temps : on voit d’ailleurs que le présent ou le prétérit ne font que s’ajouter à eux. Il n’existe **pas** de temps syntaxique futur ou conditionnel : ~~would~~ est simplement la forme prétérit de ~~WILL~~, ~~should~~ la forme prétérit de ~~SHALL~~, etc.
+{{% small %}} Les éléments HAVE + -EN ou BE + -ING, *WILL*, *SHALL*, etc. ne sont **pas** des temps : on voit d’ailleurs que le présent ou le prétérit ne font que s’ajouter à eux. Il n’existe **pas** de temps syntaxique futur ou conditionnel : ~~would~~ est simplement la forme prétérit de ~~WILL~~, ~~should~~ la forme prétérit de ~~SHALL~~, etc. {{% /small %}}
 
 
 -   La marque du temps est nécessairement portée par le **premier élément** du GV. Elle ne peut figurer qu’une fois dans un même GV.
@@ -325,7 +325,7 @@ Pour les formes verbales simples assertives (~~John works/worked~~), le passage 
     </tbody>
 </table>
 
-Il ne faut pas confondre l’auxiliaire **DO** avec le verbe **DO**. Comme tous les verbes, ce dernier exige dans certains cas l’emploi de l’auxiliaire **DO** : ~~what do you do for a living ?~~
+{{% small %}} Il ne faut pas confondre l’auxiliaire **DO** avec le verbe **DO**. Comme tous les verbes, ce dernier exige dans certains cas l’emploi de l’auxiliaire **DO** : ~~what do you do for a living ?~~ {{% /small %}}
 
 La valeur sémantique de DO sera revue au chapitre III.1.
 
@@ -351,7 +351,7 @@ Si le mot interrogatif (ou l’expression interrogative) est sujet de la phrase,
 
 Attention à ne pas confondre par exemple ~~Who saw you ?~~ et ~~Who did you see ?~~
 
-Contrairement au français, l’anglais n’utilise pas vraiment les questions à la forme déclarative. Dans la plupart des situations, on utilisera ~~Are you ready ?~~ et non ~~You are ready ?~~ (qui a une forte orientation positive et n’est pas très éloigné de l’affirmation).
+{{% small %}} Contrairement au français, l’anglais n’utilise pas vraiment les questions à la forme déclarative. Dans la plupart des situations, on utilisera ~~Are you ready ?~~ et non ~~You are ready ?~~ (qui a une forte orientation positive et n’est pas très éloigné de l’affirmation). {{% /small %}}
 
 #### Constructions négatives
 
@@ -369,7 +369,7 @@ Cette construction, qui associe à *NOT* la structure “auxiliaire-sujet”, po
 
 Si le sujet n’est pas un pronom, on peut trouver, dans un style recherché ou dans une volonté d’insister sur la négation, la tournure ~~Is not the writer English ?~~, mais on utilisera plus souvent le même ordre des mots qu’avec un pronom (i.e. ~~Isn’t the writer English ? Is the writer not English ?~~).
 
-Pour la première personne du singulier de BE, la forme interro-négative contractée est ~~aren’t I~~ /’αːntaɪ/ : à ~~Am I not English ?~~ (niveau de langue recherché) correspond ~~Aren’t I English ?~~ (niveau de langue non recherché).
+{{% small %}} Pour la première personne du singulier de BE, la forme interro-négative contractée est ~~aren’t I~~ /’αːntaɪ/ : à ~~Am I not English ?~~ (niveau de langue recherché) correspond ~~Aren’t I English ?~~ (niveau de langue non recherché). {{% /small %}}
 
 #### Constructions emphatiques
 
@@ -411,7 +411,7 @@ Ici, ~~but they should~~ équivaudrait à “ils devraient” et non à “ils a
 
 Dans le doute, il est plus prudent de ne pas omettre BE / HAVE, le seul risque sera la lourdeur de la construction, tout au plus.
 
-Dans certaines variétés d’anglais, notamment l’anglais britannique, on peut avoir recours au remplacement de ce qui suit l’auxiliaire par DO : ~~So far he has never asked that question, but next time he might do.~~
+{{% small %}} Dans certaines variétés d’anglais, notamment l’anglais britannique, on peut avoir recours au remplacement de ce qui suit l’auxiliaire par DO : ~~So far he has never asked that question, but next time he might do.~~ {{% /small %}}
 
 #### Types essentiels de construction avec reprise par auxiliaire
 
@@ -421,39 +421,39 @@ Dans certaines variétés d’anglais, notamment l’anglais britannique, on peu
 
 > “I wonder if he liked the film.” “I’m sure he ↘DID.”
 
-> "I'm afraid Ken didn't like the film." "But he ↘DID!" 
+> "I'm afraid Ken didn't like the film." "But he ↘DID!"
 
 ..- Mais si ! Remarquez qu'en français, le passage du négatif au positif est indiqué par "si", et en anglais par l'accentuation de l'auxiliaire.
 
-> “Are there any difficulties ?” “Yes, there ↘ARE.” 
+> “Are there any difficulties ?” “Yes, there ↘ARE.”
 
-Cas particulier : reprise interro-négative pour exprimer une approbation avec une intonation obligatoirement descendante et parfois à la suite d'une reprise déclarative. ~~“The weather’s really gorgeous !” “Yes, it is, ↘ISn’t it ?”~~
+{{% small %}} Cas particulier : reprise interro-négative pour exprimer une approbation avec une intonation obligatoirement descendante et parfois à la suite d'une reprise déclarative. ~~“The weather’s really gorgeous !” “Yes, it is, ↘ISn’t it ?”~~ {{% /small %}}
 
 - Question posée par l’interlocuteur.
 
 > “I’ve sold my motorbike.” “Have you ?”
 
-Les termes déjà introduits sont repris sous forme de question. L'intonation peut être montante ou descendante et plus ou moins creusée. On obtient donc des sens très variés : faible intérêt (Ah bon ?), faible surprise (Vraiment ? Tiens donc.), mise en doute, grande surprise, indignation (Pas possible ! Sans blague !). 
+Les termes déjà introduits sont repris sous forme de question. L'intonation peut être montante ou descendante et plus ou moins creusée. On obtient donc des sens très variés : faible intérêt (Ah bon ?), faible surprise (Vraiment ? Tiens donc.), mise en doute, grande surprise, indignation (Pas possible ! Sans blague !).
 
 - Modification de tous les termes (orientation et sujet)
 
-> ~~"I think Ken liked the film." "But ↘TIna ↗DIDn't. / ↘TIna ↘DIDn't."~~ 
+> ~~"I think Ken liked the film." "But ↘TIna ↗DIDn't. / ↘TIna ↘DIDn't."~~
 
-> ~~"Ken didn't like the film, but ↘I ↗DID. / ↘I ↘DID."~~ 
+> ~~"Ken didn't like the film, but ↘I ↗DID. / ↘I ↘DID."~~
 
 Remarquez la possibilité d'une double accentuation, qui correspond à l'introduction d'un nouveau GN sujet en même temps que d'une nouvelle orientation. L'énonciateur ouvre ou ferme la discussion selon que l'intonation du dernier élément est montante ou descendante.
 
 - Construction *so* + GN sujet + auxiliaire
 
-Sert à exprimer une confirmation étonnée. L'interlocuteur reprend (mais sous la forme d'un pronom et d'un auxiliaire) tous les termes introduits précédemment : 
+Sert à exprimer une confirmation étonnée. L'interlocuteur reprend (mais sous la forme d'un pronom et d'un auxiliaire) tous les termes introduits précédemment :
 
-~~"Someone has been trying to open the door." "So they ↘HAVE !"~~ Quelqu'un a essayé d'ouvrir la porte. -En effet ! / Mais c'est vrai ! 
+~~"Someone has been trying to open the door." "So they ↘HAVE !"~~ Quelqu'un a essayé d'ouvrir la porte. -En effet ! / Mais c'est vrai !
 
 - Reprises interrogatives (~~"question tags"~~), cas général
 
 Il n'y a pas de changement de locuteur. L'intonation est descendante quand il ne s'agit pas véritablement d'une question (appel à l'interlocuteur pour attirer son attention, obtenir une simple confirmation, etc.).
 
-~~"Fred likes tennis, ↘DOESn't he ? / ↗DOESn't he ?"~~ Fred aime le tennis, hein ? / non ? / n'est-ce pas ? / pas vrai ? 
+~~"Fred likes tennis, ↘DOESn't he ? / ↗DOESn't he ?"~~ Fred aime le tennis, hein ? / non ? / n'est-ce pas ? / pas vrai ?
 
 ~~"Nice morning, ↘ISn't it ?"~~ Intonation obligatoirement descendante, il ne peut s'agir véritablement d'une question.
 
@@ -504,6 +504,6 @@ Le locuteur peut être le même, ou différent. Reprise de l'orientation (oui/no
 
 - Construction GN sujet + auxiliaire + ***too*** / ***either***
 
-Sens identique à celui de la construction précédente. 
+Sens identique à celui de la construction précédente.
 
 > "He sent us a postcard, and his 'brother 'did ↘TOO."
