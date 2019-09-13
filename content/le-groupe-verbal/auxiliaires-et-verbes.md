@@ -1,14 +1,13 @@
 ---
-title: "Le groupe verbal"
+title: "Auxiliaires et verbes"
+tocmaxdepth: 2
 menu:
   docs:
-    parent: sommaire
-    weight: 2
+    parent: gv
+    weight: 1
 ---
 
-## Auxiliaires et verbes
-
-### Définition
+## Définition
 
 Il y a deux catégories d’éléments verbaux qui peuvent entrer dans la composition d’un GV : les auxiliaires et les verbes.
 
@@ -19,7 +18,7 @@ Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verb
 
 Les 11 éléments suivants répondent à cette définition : *BE, HAVE, CAN, MAY, MUST, WILL, SHALL, OUGHT, NEED, DARE*. Notons toutefois que certains comme BE et HAVE (cf. chap I.2.) fonctionnent tantôt comme des auxiliaires et tantôt comme des verbes.
 
-### Les formes du verbe
+## Les formes du verbe
 
 Prenons EAT. On peut trouver ce verbe sous 5 formes :
 
@@ -34,7 +33,7 @@ Notons à propos de l’infinitif qu’il faut distinguer l'infinitif sans *TO*,
 {{% small %}} Le mot ***TO*** joue un rôle particulier : parfois c’est une **préposition** (~~I’m going to London~~), parfois c’est la **particule infinitive**. Il faut distinguer ces deux valeurs syntaxiques mais ne pas oublier que **le changement de valeur syntaxique ne change pas le sens fondamental** de TO (à savoir un “mouvement vers”), que l’on retrouve tant dans la préposition que dans la particule infinitive. {{% /small %}}
 
 
-### Valeurs sémantiques des formes du verbe
+## Valeurs sémantiques des formes du verbe
 
 Les cinq formes du verbe sont différentes façons de voir un **événement** (i.e. l’ensemble de ce qui est désigné par une proposition). Un événement peut tout aussi bien désigner un fait correspondant à une action (~~He opened the door~~) qu’un fait de nature “statique” (~~I like chocolate~~ ou encore ~~Cats are carnivorous~~).
 
@@ -49,7 +48,7 @@ Les cinq formes du verbe sont différentes façons de voir un **événement** (i
 -   **Forme V-en**. On se place **après** l’événement, on effectue un retour en arrière. Il peut s’effectuer sur un événement terminé (~~He has broken his arm~~) ou sur un événement qui dure encore au moment présent et n’est pas forcément terminé (~~He has lived in London for 10 years~~).
 
 
-### Formes des auxiliaires
+## Formes des auxiliaires
 
 Les formes seront détaillées plus loin, nous ferons simplement ici des remarques d’ordre général.
 
@@ -59,7 +58,7 @@ Les formes seront détaillées plus loin, nous ferons simplement ici des remarqu
     -   Les formes réduites sont exclues quand l’auxiliaire n’est pas suivi du reste du GV ou lorsqu’il en est séparé par une incise ou toute forme de rupture (~~She **has**, by the way, finished the job~~).
 
 
-### Modes et temps, structure du GV
+## Modes et temps, structure du GV
 
 Le GV peut être à un **mode personnel** ou **impersonnel** (i.e. mode fini et mode non fini). Les modes personnels sont ceux où le GV a nécessairement un sujet : il s’agit de **l’indicatif**, du **subjonctif** et de **l’impératif**. Les modes impersonnels sont **l’infinitif** (précédé ou non de TO), la **forme V-ing** et le **participe passé**.
 
@@ -257,7 +256,7 @@ Ce tableau appelle plusieurs commentaires.
 Parmis les formes composées, il faut inclure le **passif**, qui ajoute BE + -EN aux autres éléments du GV ( chap. III.5.)
 
 
-### L'auxiliaire DO
+## L'auxiliaire DO
 
 Pour les formes verbales simples assertives (~~John works/worked~~), le passage à une forme négative, interrogative ou emphatique exige l’ajout de DO (~~Does/Did John work ? John does/did work.~~)
 
@@ -329,7 +328,7 @@ Pour les formes verbales simples assertives (~~John works/worked~~), le passage 
 
 La valeur sémantique de DO sera revue au chapitre III.1.
 
-### Rôle de l’auxiliaire dans certaines constructions
+## Rôle de l’auxiliaire dans certaines constructions
 
 C’est ici un aperçu général des constructions, qui se rattachent à des domaines divers de la grammaire et qui seront traités plus en détail dans les chapitres III.1., III.4. et IV.6.
 
@@ -337,7 +336,7 @@ Il faut souligner le rôle important que joue, dans toutes les constructions non
 
 Cet auxiliaire a deux fonctions syntaxiques : il sert de **support à la marque du temps** et il **occupe une place particulière** dans un certain nombre de structures.
 
-#### Structure auxiliaire-sujet
+### Structure auxiliaire-sujet
 
 Cette forme est employée en particulier pour la construction interrogative. Le schéma de la construction interrogative est le suivant :
 
@@ -353,13 +352,13 @@ Attention à ne pas confondre par exemple ~~Who saw you ?~~ et ~~Who did you see
 
 {{% small %}} Contrairement au français, l’anglais n’utilise pas vraiment les questions à la forme déclarative. Dans la plupart des situations, on utilisera ~~Are you ready ?~~ et non ~~You are ready ?~~ (qui a une forte orientation positive et n’est pas très éloigné de l’affirmation). {{% /small %}}
 
-#### Constructions négatives
+### Constructions négatives
 
 Il s’agit d’une construction utilisant la négation *NOT*, laquelle s’appuie obligatoirement sur un auxiliaire. Les négations autres que *NOT* ne déclenchent pas l’emploi de *DO* au présent/prétérit simples : ~~he doesn’t smoke~~ vs ~~he never smokes~~.
 Autre règle importante : NOT est obligatoirement placé après le premier auxiliaire.
 ~~He may **not** have been at home~~ et surtout pas ~~He may have not been at home~~.
 
-#### Constructions interro-négatives
+### Constructions interro-négatives
 
 Cette construction, qui associe à *NOT* la structure “auxiliaire-sujet”, pose le problème de la place de la négation. Si le sujet est un **pronom**, il y a deux possibilités.
 
@@ -371,13 +370,13 @@ Si le sujet n’est pas un pronom, on peut trouver, dans un style recherché ou 
 
 {{% small %}} Pour la première personne du singulier de BE, la forme interro-négative contractée est ~~aren’t I~~ /’αːntaɪ/ : à ~~Am I not English ?~~ (niveau de langue recherché) correspond ~~Aren’t I English ?~~ (niveau de langue non recherché). {{% /small %}}
 
-#### Constructions emphatiques
+### Constructions emphatiques
 
 > “I don’t know if he enjoyed the party.” “Oh, I’m sure he did enjoy it.”
 
 Nous verrons plus tard que cette construction n’exprime pas forcément une “insistance”.
 
-#### Reprise par auxiliaires : généralités
+### Reprise par auxiliaires : généralités
 
 Les reprises par auxiliaire sont formées à l’aide d’un groupe nominal sujet et d’un auxiliaire. Sauf cas particuliers indiqués plus loin, tout ce qui suit le premier auxiliaire est effacé.
 
@@ -413,11 +412,11 @@ Dans le doute, il est plus prudent de ne pas omettre BE / HAVE, le seul risque s
 
 {{% small %}} Dans certaines variétés d’anglais, notamment l’anglais britannique, on peut avoir recours au remplacement de ce qui suit l’auxiliaire par DO : ~~So far he has never asked that question, but next time he might do.~~ {{% /small %}}
 
-#### Types essentiels de construction avec reprise par auxiliaire
+### Types essentiels de construction avec reprise par auxiliaire
 
 (L’accent principal de groupe intonatif est indiqué par les majuscules, la flèche précédente indique l’intonation.)
 
-- Réponses abrégées (i.e. short answers).
+#### Réponses abrégées (i.e. short answers)
 
 > “I wonder if he liked the film.” “I’m sure he ↘DID.”
 
@@ -429,13 +428,13 @@ Dans le doute, il est plus prudent de ne pas omettre BE / HAVE, le seul risque s
 
 {{% small %}} Cas particulier : reprise interro-négative pour exprimer une approbation avec une intonation obligatoirement descendante et parfois à la suite d'une reprise déclarative. ~~“The weather’s really gorgeous !” “Yes, it is, ↘ISn’t it ?”~~ {{% /small %}}
 
-- Question posée par l’interlocuteur.
+#### Question posée par l’interlocuteur
 
 > “I’ve sold my motorbike.” “Have you ?”
 
 Les termes déjà introduits sont repris sous forme de question. L'intonation peut être montante ou descendante et plus ou moins creusée. On obtient donc des sens très variés : faible intérêt (Ah bon ?), faible surprise (Vraiment ? Tiens donc.), mise en doute, grande surprise, indignation (Pas possible ! Sans blague !).
 
-- Modification de tous les termes (orientation et sujet)
+#### Modification de tous les termes (orientation et sujet)
 
 > ~~"I think Ken liked the film." "But ↘TIna ↗DIDn't. / ↘TIna ↘DIDn't."~~
 
@@ -443,13 +442,13 @@ Les termes déjà introduits sont repris sous forme de question. L'intonation pe
 
 Remarquez la possibilité d'une double accentuation, qui correspond à l'introduction d'un nouveau GN sujet en même temps que d'une nouvelle orientation. L'énonciateur ouvre ou ferme la discussion selon que l'intonation du dernier élément est montante ou descendante.
 
-- Construction *so* + GN sujet + auxiliaire
+#### Construction *so* + GN sujet + auxiliaire
 
 Sert à exprimer une confirmation étonnée. L'interlocuteur reprend (mais sous la forme d'un pronom et d'un auxiliaire) tous les termes introduits précédemment :
 
 ~~"Someone has been trying to open the door." "So they ↘HAVE !"~~ Quelqu'un a essayé d'ouvrir la porte. -En effet ! / Mais c'est vrai !
 
-- Reprises interrogatives (~~"question tags"~~), cas général
+#### Reprises interrogatives (~~"question tags"~~), cas général
 
 Il n'y a pas de changement de locuteur. L'intonation est descendante quand il ne s'agit pas véritablement d'une question (appel à l'interlocuteur pour attirer son attention, obtenir une simple confirmation, etc.).
 
@@ -459,7 +458,7 @@ Il n'y a pas de changement de locuteur. L'intonation est descendante quand il ne
 
 Les ~~"question tags"~~ sont beaucoup plus utilisés que leurs équivalents français. En règle générale, la reprise est **négative** (interro-négation) après un GV **positif**, et **positive** après un GV **négatif** (ou contenant une idée de négation, avec des mots tels que ~~hardly~~ ou ~~few~~ : ~~"there was very little traffic, was there ?~~).
 
-- Reprises interrogatives, cas particuliers
+#### Reprises interrogatives, cas particuliers
 
 Pour produire certains effets tels que l'ironie ou la surprise, on peut faire suivre un GV positif par une reprise également positive, c'est ce qu'on appelle les ~~"same way tags"~~.
 
@@ -478,7 +477,7 @@ Si l'auxiliaire est BE, on peut cependant avoir l'ordre interrogatif :
 
 > "He was a dying breed, was Cruz, Carriscant reflectef." (W. Boyd, The Blue Afternoon)
 
-- Question avec changement de sujet
+#### Question avec changement de sujet
 
 On pose une vraie question (avec une intonation montante), à propos d'un nouveau GN sujet.
 
@@ -488,11 +487,11 @@ La question peut également porter sur l'identité du sujet.
 
 > "He'd like to meet you, by the way." "WHO does ?"
 
-- Ajout d'une remarque, avec changement d'auxiliaire
+#### Ajout d'une remarque, avec changement d'auxiliaire
 
 > "I've never played football, and I never ↘WILL."
 
-- Construction ***so*** / ***neither*** / ***nor*** + auxiliaire + GN sujet
+#### Construction *so* / *neither* / *nor* + auxiliaire + GN sujet
 
 NB : Ne pas confondre avec la construction ***so*** + GN sujet + auxiliaire.
 
@@ -502,7 +501,7 @@ Le locuteur peut être le même, ou différent. Reprise de l'orientation (oui/no
 
 > "They haven't got a car." " 'Neither / 'Nor 'have ↘WE."
 
-- Construction GN sujet + auxiliaire + ***too*** / ***either***
+#### Construction GN sujet + auxiliaire + *too* / *either*
 
 Sens identique à celui de la construction précédente.
 

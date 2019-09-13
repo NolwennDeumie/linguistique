@@ -2,7 +2,7 @@
 title: "Introduction"
 menu:
   docs:
-    parent: sommaire
+    parent: general
     weight: 1
 ---
 

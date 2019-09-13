@@ -14,13 +14,23 @@ identifier = "twitter"
 url = "https://twitter.com/IWannaSlytherIn"
 
 [[menu.docs]]
-name = "Sommaire"
+name = "Général"
 weight = 10
-identifier = "sommaire"
+identifier = "general"
+
+[[menu.docs]]
+name = "Le groupe verbal"
+weight = 15
+identifier = "gv"
+
+[[menu.docs]]
+name = "Le groupe nominal"
+weight = 20
+identifier = "gn"
 
 [[menu.docs]]
 name = "GitHub"
-weight = 15
+weight = 25
 identifier = "meta"
 
 [[menu.docs]]

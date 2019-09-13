@@ -8,7 +8,5 @@ Disclaimer : ce site et son contenu sont très fortement inspirés de la *Gramma
 # Sommaire
 
 - [Introduction](introduction)
-  - [Phrase et énoncé](introduction#phrase-et-énoncé)
-  - [Concept d'énonciateur](introduction#concept-d-énonciateur)
-  - [Phrase simple et phrase complexe](introduction#phrase-simple-et-phrase-complexe)
-- [Le groupe verbal](le-groupe-verbal)
+- Le groupe verbal
+  - [Auxiliaires-et-verbes](le-groupe-verbal/auxiliaires-et-verbes)
