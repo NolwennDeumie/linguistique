@@ -10,21 +10,23 @@ Rappel de quelques notions essentielles.
 
 ## Phrase et énoncé
 
-La phrase peut être une simple abstraction, tandis que **l’énoncé**, composé d’un ou plusieurs segments correspondant à des phrases, est un échantillon “réel” de langage. Afin de comprendre la grammaire, il est essentiel de tenir compte des **conditions d’énonciation**, notamment du contexte/situation et du rôle de l’énonciateur.
+La **phrase** peut être une simple abstraction. Elle ne définit qu’un assemblage de mots selon les règles de la syntaxe, en dehors de tout discours. **L’énoncé** quant à lui est ce que produit le **locuteur** et ce qu’entend l’auditeur dans une situation donnée : la **situation d’énonciation**. Il est composé d’un ou plusieurs segments correspondant à des phrases et est un échantillon “réel” de langage, c'est le porteur d'un message. Afin de comprendre la grammaire, il est essentiel de tenir compte des conditions d’énonciation, notamment du contexte/situation et du rôle de l’énonciateur.
 
 
 ## Concept d’énonciateur
 
-**L’énonciateur** n’est pas forcément la personne qui parle (aka le locuteur). Un énoncé n’est pas forcément parlé : il peut être écrit ou même pensé. On peut également avoir plusieurs énonciateurs dans une seule phrase : *Edwin thinks that fast cars are dangerous.*
+**L’énonciateur** n’est pas forcément la personne qui parle (i.e. le locuteur). Un énoncé n’est pas forcément parlé : il peut être écrit ou même pensé. On peut également avoir plusieurs énonciateurs dans une seule phrase : *Edwin thinks that fast cars are dangerous.*
 
 La partie *fast cars are dangerous* est énoncée par Edwin, mais l’ensemble de la phrase est énoncée par quelqu’un d’autre.
 
-L’énonciateur fait des choix en permanence afin de représenter la réalité (ou sa vision de la réalité).
+L’énonciateur fait des choix en permanence afin de représenter la réalité (ou sa vision de la réalité) et ce de plusieurs façons : il n'existe pas une et une seule façon de raconter ou décrire quelque chose. Par exemple, l'énonciateur peur représenter un **événement** passé comme coupé du présent (~~I lost my cap yesterday~~) ou le mettre en rapport avec le présent ( ~~I have lost my cap.~~).
+
+NB: on appellera événement tout fait susceptible d'être représenté dans le langage par une proposition syntaxique, i.e. par une construction sujet + verbe (+ compléments / attributs / etc.) ; le verbe pourra correspondre à une action ("~~run~~"), à un état ("~~know~~") ou à un changement d'état ("~~grow~~").
 
 
 ## Phrase simple et phrase complexe
 
-On appelle phrase simple une phrase comprenant une seule proposition (aka organisée autour d’un seul verbe), et phrase complexe une phrase avec plusieurs propositions.
+On appelle phrase simple une phrase comprenant une seule proposition (i.e. organisée autour d’un seul verbe), et phrase complexe une phrase avec plusieurs propositions.
 
 ### Les éléments de la phrase simple
 
