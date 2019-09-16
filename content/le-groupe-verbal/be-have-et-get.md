@@ -1,12 +1,12 @@
 ---
-title: "BE, HAVE et GET"
+title: "Be, have et get"
 menu:
   docs:
     parent: gv
     weight: 2
 ---
 
-## Be et have, auxiliaires ou verbes ?
+## BE et HAVE, auxiliaires ou verbes ?
 
 *Be* et *have* sont polyvalents, ils possèdent tantôt les caractéristiques syntaxiques des auxiliaires (négation et interrogation directes, i.e. sans *do*), tantôt celles des verbes.
 
@@ -73,7 +73,7 @@ Forme négative contractée : ~~hadn't~~
 
 Forme en -ING et participe passé : ~~having~~ et ~~had~~.
 
-## Sens fondamental de *BE* et *HAVE*
+## Sens fondamental de BE et HAVE
 
 Il existe entre ces deux termes un lien sémantique étroit. On le constate aisément en comparant par exemple ~~Mary **has** a car.~~ et ~~The car **is** Mary's.~~ : il existe plus ou moins la même relation mais d'un point de vue différent. Cette relation, on la retrouve (sous une forme qui n'est pas nécessairement l'expression d'une possession) dans tous les emplois de *be / have* et en particulier dans leurs emplois comme auxiliaires d'aspect (chapitres BE + -ING et HAVE + -EN).
 
@@ -176,7 +176,7 @@ De façon générale, on trouve un certain nombre d'emplois dans lesquels *have*
 
 > I looked for a red coat but there was none to be had. ...pas moyen de s'en procurer un. {{% /small %}}
 
-### Have got
+### HAVE GOT
 
 La particule *got* est à l'origine le participe passé du verbe *get*. Origine facile à comprendre : si on "a obtenu", alors on "a". Il ne faut cependant pas confondre les deux formes. L'idée d'obtenir a complètement disparu de l'emploi actuel de *have got* : ~~She's got blue eyes.~~ Il ne reste plus qu'un sens statif.
 
@@ -199,7 +199,7 @@ En ce qui concerne les emplois de *have got*, on peut noter 3 principes :
 - Il ne peut être utilisé que pour exprimer un sens statif (~~He's got two brothers. She's got a cold.~~), les sens dynamiques sont donc exlus (on ne dira jamais ~~What time have you got lunch ?~~ mais ~~What time do you have lunch ?~~).
 L'emploi dans le sens "avoir habituellement" est également exclu.
 
-### Have
+### HAVE
 
 Nous l'avons vu plus tôt, *have* peut s'utiliser comme verbe ou comme auxiliaire (tandis que *have* construit avec *got* est forcément un auxiliaire). La question de ce choix ne se pose qu'aux formes non assertives (i.e. négation, interrogation, emphase) du présent ou du prétérit. Dans ~~I have a problem.~~, rien ne permet de dire si *have* est syntaxiquement auxiliaire ou verbe, et la question n'a que peu d'intérêt. Ce choix, par ailleurs, n'est absolument pas problématique puisqu'on peut toujours, en dehors du parfait, utiliser *have* comme verbe (~~I don't have any objections~~.).
 
@@ -209,7 +209,7 @@ Par ailleurs, l'emploi de la forme contractée '*ve* non suivie de *got* est ass
 
 > I've a few theories, as does avery cricket journalist worth his salt. (www.the-guardian.com)
 
-## Get
+## GET
 
 Contrairement à *be* et *have*, *get* a toujours les caractéristiques d'un verbe. Il leur est cependant proche dans les domaines de la syntaxe et du sens. En syntaxe, il faut mentionner, en plus de son association avec *have* dans *have got*, le fait que *get* peut occuper la même place que *be* ou *have* dans certaines constructions :
 
