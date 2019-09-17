@@ -37,7 +37,7 @@ Le choix entre /s/ et /z/ dépend simplement de la facilité de prononciation. /
 
 ## Le présent : sens et emplois
 
-**Sens fondamental** : l'emploi de la forme du présent indique que l'énonciateur place son point de vue au **moment présent** et qu'il montre comme **réel** au moment présent ce qui est représenté par le verbe ou l'auxiliaire.
+L'emploi de la forme du présent indique que l'énonciateur place son point de vue au **moment présent** et qu'il montre comme **réel** au moment présent ce qui est représenté par le verbe ou l'auxiliaire.
 
 Avec le présent simple, le point de vue sur l'événement est un point de vue **global**, ça permet d'expliquer la différence entre présent simple et BE + -ING.
 

@@ -7,11 +7,11 @@ menu:
     weight: 3
 ---
 
-## Prétérit simple (forme régulière)
+## Forme régulière du prétérit simple
 
 ~~I / he / we  **worked**~~ (base verbale + terminaison -ed)
 
-## Prononciation du -ed du prétérit
+## Prononcer le -ed du prétérit
 
 /ɪd/ ou /əd/ (selon variété d'anglais) |    /t/     |       /d/
 -------------------------------------- | ---------- | ----------------
@@ -23,7 +23,7 @@ Le choix entre /t/ et /d/ dépend de la facilité de prononciation.
 
 > remember : /rɪ'membə/ → remembered : /rɪ'membəd/ {{% /small %}}
 
-## Cas particuliers orthographiques pour la terminaison -ed
+## Cas particuliers orthographiques
 
 - Si la base verbale se termine par un -e, on ajoute seulement -d.
 
@@ -42,13 +42,13 @@ Le choix entre /t/ et /d/ dépend de la facilité de prononciation.
 
 - Les sigles peuvent aussi être suivis de terminaisons : ~~He OK'd / OKd the project.~~
 
-## Prétérit, sens et emploi (généralités)
+## Sens et emploi 
 
-**Sens fondamental**. Le prétérit, par opposition au présent, fait apparaître ce qui est représenté par le verbe ou l'auxiliaire comme **non réel** au moment présent. Cette non-réalité peut prendre plusieurs formes, c'est ce qui détermine les catégories d'emploi du prétérit.
+Le prétérit, par opposition au présent, fait apparaître ce qui est représenté par le verbe ou l'auxiliaire comme **non réel** au moment présent. Cette non-réalité peut prendre plusieurs formes, c'est ce qui détermine les catégories d'emploi du prétérit.
 
 Il faut distinguer deux grandes catégories : les emplois temporels (**valeur de passé**) et les emplois non temporels (**valeur hypothétique**).
 
-## Emplois temporels du prétérit
+## Valeur de passé
 
 {{% small %}} Notons que de nombreuses questions soulevées par ces emplois concernent l'opposition entre prétérit simple et prétérit en BE + -ING, et le prétérit simple et le present perfect. Ces questions seront abordées dans les chapitres suivants. Les problèmes particuliers que pose l'emploi du prétérit avec les modaux et les expressions de modalité seront également traitées dans les prochains chapitres. {{% /small %}}
 
@@ -164,3 +164,63 @@ L'énoncé présuppose donc : ~~I don't have a dog.~~
 {{% small %}} L'irréalité peut ne pas concerner directement l'élément verbal qui porte la marque du prétérit. C'est assez fréquent avec les modaux. Comparons ~~Tim **may** have broken his leg.~~ (Il se peut que Tim se soit cassé la jambe) et ~~Tim **might** have broken his leg.~~ (utilisé dans le sens "Tim aurait pu se casser la jambe"). Le second énoncé présuppose ~~he didn't break his leg.~~ La marque de cette présupposition irréelle (prétérit) est portée non pas par le verbe (qui est directement concerné par l'irréalité, i.e. ~~break~~), mais par le premier auxiliaire du GV - le **modal**. On peut donc parler ici d'un **marquage indirect** de la valeur d'irréel. {{% /small %}}
 
 ### Valeur de doute
+
+Prenons deux énoncés :
+
+> If I **win** the lottery, I'll buy myself a watch.
+
+> If I **won** the lottery, I'd buy myself a watch.
+
+Ils peuvent paraître très semblable au premier abord, mais la différence est belle et bien là. C'est plus ou moins la même qu'entre "si je gagne" et "si je gagnais" en français. ~~If I won...~~ implique un doute plus grand sur les chances de réalisation de l'hypothèse, et présuppose quelque chose du type "... mais je ne gagnerai probablement pas." En outre, ~~If I win...~~ laisse entendre, contrairement à ~~If I won...~~, que j'ai acheté un billet de loterie.
+
+C'est aussi à cette catégorie qu'appartient le prétérit utilisé dans les expressions ~~It's time~~ et ~~I'd rather~~.
+
+> It's (high) time you **left**.
+
+> I'd rather you **left**.
+
+Il y a dans les deux cas un effet de politesse auquel s'ajoute dans le premier exemple un irréel concernant le présent ("vous n'êtes pas encore parti").
+
+Le prétérit dit "de politesse", commun dans les énoncés exprimant un conseil, une suggestion ou encore une requête, s'explique par ce type d'implicite :
+
+> You **could** take more exercise.
+
+> **Could** you / **Would** you close the door, please ?
+
+Dans les énoncés de ce type, on présuppose que l'action conseillée ou suggérée ne sera peut-être pas accomplie, l'énonciateur semble donc **laisser le choix** à son interlocuteur, d'où l'effet de politesse.
+
+Abordons pour finir un emploi du prétérit hypothétique qui pose parfois problème aux francophones. On le trouve dans certaines subordonnées :
+
+> I think Wieland is a fool and a charlatan and anyone who listened to him would be mad. (W. Boyd, **The Blue Afternoon**)
+
+L'équivalent français de ~~..anyone who listened to him~~ est "quiconque l'écouterait". Deux choses sont à expliquer : 
+
+- Malgré le sens "conditionnel", ~~would listen~~ n'est pas employé.
+- On emploie le prétérit. Cela s'explique à la fois par le caractère hypothétique et non réel de la proposition (i.e. ~~If someone listened to him, they would be mad~~). Il est par ailleurs difficile de dire si c'est une valeur d'irréel ou une valeur de doute, c'est la zone floue séparant ces deux valeurs.
+
+{{% small %}} Cette zone floue est assez courante, au final. Si l'on prend ~~You should make more exercise~~, on trouve une valeur d'irréel ("Vous ne faîtes pas assez d'exercice") mais aussi une valeur de doute ("Mais vous ne suivrez peut-être pas mon conseil").
+
+Le prétérit hypothétique peut porter sur le verbe seul et sur tous les types d'auxiliaires, mais c'est seulement avec les auxiliaires modaux que l'emploi hypothétique est possible dans une phrase simple ou une proposition principale : ~~Could you lend me five pounds ?~~
+
+L'emploi hypothétique dans les subordonnées ne se fait que dans un nombre de cas bien délimité.
+
+- Dans les propositions introduites par ~~if~~, ~~as if~~, ~~as though~~ ou ~~suppose~~ (~~Suppose he came tonight.~~)
+- Dans les subordonnées dont la principale est soumise à une hypothèse non réelle.
+- Dans les subordonnées compléments après ~~I wish~~, ~~I'd rather~~, ~~it's time~~. {{% /small %}}
+
+### Emplois particuliers avec les verbes type WANT
+
+Avec ~~want~~, ~~wonder~~ ou encore ~~hope~~, il existe un emploi du prétérit qui justifie un classement à part :
+
+> I **wanted** to ask you a favor.
+
+> I **was wondering** if you could lend me your car.
+
+> I **was hoping** we could have a chat.
+
+On constate que le prétérit ajoute à l'énoncé une hésitation ou un doute implicite. Ils peuvent porter sur au moins deux choses : 
+
+- L'acte de demande exprimé ("... mais je ne sais pas si je peux / si je vais oser vous le demander".)
+- L'accomplissement de l'action demandée par l'interlocuteur ("... mais je ne sais pas si vous allez pouvoir / vouloir me rendre ce service.")
+
+C'est donc ici encore l'expression d'une non-réalité qui ne concerne pas directement le verbe ou l'auxiliaire porteurs de la marque prétérit.

@@ -13,7 +13,7 @@ Le **discours direct** et le **discours indirect** (ou **style** direct / indire
 
 > Bert said that he was listening.
 
-Le discours rapporté peut être du discours au sens étroit : il consiste alors en des paroles que l'on rapporte. Mais il peut également consister en pensées, sentiments, impressions, opinions, etc. Dans ce dernier cas, le discours est généralement rapporté par l'intermédiaire d'un verbe ou d'une expression du type ~~think, know, feel~~.
+Le discours rapporté peut être du discours au sens étroit : il consiste alors en des paroles que l'on rapporte. Mais il peut également consister en des pensées, sentiments, impressions, opinions, etc. Dans ce dernier cas, le discours est généralement rapporté par l'intermédiaire d'un verbe ou d'une expression du type ~~think, know, feel~~.
 
 > Bert **thought** that Flo was listening.
 
@@ -33,7 +33,7 @@ Quelle que soit sa nature, un discours rapporté est **toujours** un **énoncé*
 
 - En anglais britannique, les guillements sont le plus souvent des guillements simples (‘...’) alors qu'elles sont généralement doubles en anglais américain ("...").
 
-- Le discours direct est souvent introduit par une virgule (et non par : comme en français) après les verbes de parole.
+- Le discours direct est souvent introduit par une virgule (et non par ":" comme en français) après les verbes de parole.
 
 ## Deux types de discours indirect
 

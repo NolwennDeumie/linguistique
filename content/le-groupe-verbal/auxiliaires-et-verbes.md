@@ -37,7 +37,7 @@ Il faut distinguer l'infinitif sans *to*, ou infinitif proprement dit, et l’in
 
 Les cinq formes du verbe sont différentes façons de voir un **événement** (i.e. l’ensemble de ce qui est désigné par une proposition). Un événement peut désigner un fait correspondant à une **action** (~~He opened the door~~) ou un fait de nature **“statique”** (~~I like chocolate~~, ~~Cats are carnivorous~~).
 
--   **Forme V** (verbe seul). Un verbe pris seul désigne une notion. Lorsqu’un verbe ne porte aucune marque ( i.e. qu’il est base verbale), aucune limitation n’est introduite dans la notion désignée par le verbe (~~eat~~) ou dans l’événement désigné par la proposition (~~I eat apples~~, donc si le verbe a un sujet et des compléments). Lorsqu’on emploie une base verbale seule, c’est un point de vue **global**, la proposition est considérée “en bloc”.
+-   **Forme V** (verbe seul). Un verbe pris seul désigne une notion. Lorsqu’un verbe est base verbale, aucune limitation n’est introduite dans la notion ou dans l’événement désigné par la proposition (~~I eat apples~~, donc si le verbe a un sujet et des compléments). Lorsqu’on emploie une base verbale seule, c’est un point de vue **global**, la proposition est considérée “en bloc”.
 
 -   **Formes V-s et V-ed**. Les éléments -s et -ed ne modifient pas la globalité du point de vue exprimé par V. Elles expriment également une vision globale de l’événement.
 
