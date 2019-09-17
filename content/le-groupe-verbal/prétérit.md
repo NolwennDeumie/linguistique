@@ -1,6 +1,5 @@
 ---
 title: "Prétérit"
-tocmaxdepth: 1
 menu:
   docs:
     parent: gv
