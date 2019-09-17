@@ -6,7 +6,7 @@ menu:
     weight: 2
 ---
 
-## BE et HAVE, auxiliaires ou verbes ?
+## Be et have, auxiliaires ou verbes ?
 
 *Be* et *have* sont polyvalents, ils possèdent tantôt les caractéristiques syntaxiques des auxiliaires (négation et interrogation directes, i.e. sans *do*), tantôt celles des verbes.
 
@@ -25,25 +25,26 @@ Il utilise par ailleurs *do* et non l'adjonction directe de *not* pour l'impéra
 
 2. Ormis le parfait, certains cas permettent l'emploi de *have* avec un fonctionnement d'auxiliaire, qui seront examinés de façon détaillée un peu plus loin dans ce chapitre ~~Have you any doubt about it ? I haven't a clue.~~ Cependant, même dans ces cas, on a toujours la possibilité d'utiliser *have* comme un **verbe** : ~~Do you have any doubt ? I don't have a clue.~~ En d'autres termes, l'emploi de *have* comme auxiliaire n'est obligatoire qu'avec le parfait.
 
-## Les formes de BE et HAVE
+## Les formes de be et have
 
 - Base verbale : ***be*** (utilisée pour l'infinitif, l'impératif et le subjonctif)
 
-Présent : 
+Présent.
 
-Formes positives non contractées : ~~I am~~ / ~~He is~~ / ~~We are~~
-
-Formes positives contractées : ~~I'm~~ / ~~He's~~ / ~~We're~~
-
-Formes négatives contractées : ~~I'm not~~ / ~~He's not~~ ou ~~He isn't~~ / ~~We're not~~
+--- | ~~I~~ | ~~He~~ | ~~We~~
+--- | --- | --- | ---
+Formes positives non contractées | ~~am~~ | ~~is~~ | ~~are~~
+Formes positives contractées | ~~'m~~ | ~~'s~~ | ~~'re~~
+Formes négatives contractées | ~~'m not~~ | ~~'s not~~ ou ~~isn't~~ | ~~'re not~~
 
 Notons également l'existance de ain't /eɪnt/, forme contractée non standard de ~~am~~ / ~~is~~ / ~~are not~~ et de ~~have~~ / ~~has not~~.
 
-Prétérit :
+Prétérit.
 
-Formes positives : ~~I was~~ / ~~He was~~ / ~~We were~~ (formes orales : /wɒz/ /wəz/)
-
-Formes négatives contractées : ~~I wasn't~~ / ~~He wasn't~~ / ~~We weren't~~
+--- | ~~I~~ | ~~He~~ | ~~We~~
+--- | --- | --- | ---
+Formes positives | ~~was~~ | ~~was~~ (formes orales : /wɒz/ /wəz/) | ~~were~~ 
+Formes négatives contractées | ~~wasn't~~ | ~~wasn't~~ | ~~weren't~~
 
 *Be*, contrairement à tous les auxiliaires ou verbes, possède un subjonctif prétérit dont la forme est ~~were~~ à toutes les personnes.
 
@@ -51,31 +52,29 @@ Forme en -ING et participe passé : ~~being~~ /'biːɪŋ/ et ~~been~~ /biːn/ ou
 
 - Base verbale : ***have***, contracté '*ve*. Formes orales : /hæv/, /həv/.
 
-Présent :
+Présent.
 
-Formes positives non contractées : ~~I have~~ / ~~He has~~ / ~~We have~~
-
-Formes positives contractées : ~~I've~~ / ~~He's~~ / ~~We've~~
-
-Formes négatives contractées : ~~I've not~~ ou ~~I haven't~~ / ~~He's not~~ ou ~~He hasn't~~ / ~~We've not~~ ou ~~We haven't~~
+--- | ~~I~~ | ~~He~~ | ~~We~~
+--- | --- | --- | ---
+Formes positives non contractées | ~~have~~ | ~~has~~ | ~~have~~
+Formes positives contractées | ~~'ve~~ | ~~'s~~ | ~~'ve~~
+Formes négatives contractées | ~~'ve not~~ ou ~~haven't~~ | ~~'s not~~ ou ~~hasn't~~ | ~~'ve not~~ ou ~~haven't~~
 
 Avec *have got*, la forme contractée est obligatoirement ~~haven't got~~ / ~~hasn't got~~.
 
-Prétérit : 
+Prétérit. 
 
-Forme positive non contractée : ~~had~~ à toutes les personnes
-
-Forme positive contractée : ~~'d~~
-
-Formes orales : /API/
-
-Forme négative contractée : ~~hadn't~~
+Forme positive non contractée | ~~had~~ à toutes les personnes
+--- | ---
+Forme positive contractée | ~~'d~~
+Formes orales | /hæd/ /həd/ /əd/ /d/
+Forme négative contractée | ~~hadn't~~
 
 Forme en -ING et participe passé : ~~having~~ et ~~had~~.
 
-## Sens fondamental de BE et HAVE
+## Sens fondamental de be et have
 
-Il existe entre ces deux termes un lien sémantique étroit. On le constate aisément en comparant par exemple ~~Mary **has** a car.~~ et ~~The car **is** Mary's.~~ : il existe plus ou moins la même relation mais d'un point de vue différent. Cette relation, on la retrouve (sous une forme qui n'est pas nécessairement l'expression d'une possession) dans tous les emplois de *be / have* et en particulier dans leurs emplois comme auxiliaires d'aspect (chapitres BE + -ING et HAVE + -EN).
+Il existe entre ces deux termes un lien sémantique étroit. On le constate en comparant par exemple ~~Mary **has** a car.~~ et ~~The car **is** Mary's.~~ : il existe plus ou moins la même relation mais d'un point de vue différent. Cette relation, on la retrouve (sous une forme qui n'est pas nécessairement l'expression d'une possession) dans tous les emplois de *be / have* et en particulier dans leurs emplois comme auxiliaires d'aspect (chapitres *be* + -ING et *have* + -EN).
 
 De manière générale, *be* et *have* servent tous deux à situer un élément (ou un sous-ensemble d'éléments) dans un ensemble. La différence est la suivante :
 
@@ -96,7 +95,7 @@ Cela explique le rôle essentiel que joue le sujet dans la grammaire de *be*, et
 
 Il existe un cas particulier dans les emplois statifs de *be*, à savoir l'expression de l'existence comme dans des expressions telles que ~~the powers that be~~ ou ~~Why is that?~~.
 
-## Emplois particuliers, BE ou HAVE ?
+## Emplois particuliers, be ou have ?
 
 "Être" et "avoir" ont la même parenté de sens que *be* et *have*, même si leurs emplois sont assez différents. Aucune surprise donc lorsque dans certains cas, français et anglais ont le choix entre deux formes pour exprimer une même relation.
 
@@ -152,7 +151,7 @@ Les formes du type ~~There's two men waiting for you~~ parfois usitées dans le 
 
 > There exists a solution. {{% /small %}}
 
-## Emploi de HAVE et HAVE GOT
+## Emploi de have et have got
 
 Le sens fondamental de *have* est l'expression d'une relation d'appartenance/inclusion, plus ou moins apparentée au sens de possession. Il ne s'agit pas d'une action mais d'un état : ~~I've got a cold.~~ Il arrive toutefois que, par une sorte de glissement de sens, *have* exprime ce qui vient logiquement avant la notion d' "avoir", c'est-à-dire "prendre" ou "obtenir".
 
@@ -176,7 +175,7 @@ De façon générale, on trouve un certain nombre d'emplois dans lesquels *have*
 
 > I looked for a red coat but there was none to be had. ...pas moyen de s'en procurer un. {{% /small %}}
 
-### HAVE GOT
+### Have got
 
 La particule *got* est à l'origine le participe passé du verbe *get*. Origine facile à comprendre : si on "a obtenu", alors on "a". Il ne faut cependant pas confondre les deux formes. L'idée d'obtenir a complètement disparu de l'emploi actuel de *have got* : ~~She's got blue eyes.~~ Il ne reste plus qu'un sens statif.
 
@@ -199,7 +198,7 @@ En ce qui concerne les emplois de *have got*, on peut noter 3 principes :
 - Il ne peut être utilisé que pour exprimer un sens statif (~~He's got two brothers. She's got a cold.~~), les sens dynamiques sont donc exlus (on ne dira jamais ~~What time have you got lunch ?~~ mais ~~What time do you have lunch ?~~).
 L'emploi dans le sens "avoir habituellement" est également exclu.
 
-### HAVE
+### Have
 
 Nous l'avons vu plus tôt, *have* peut s'utiliser comme verbe ou comme auxiliaire (tandis que *have* construit avec *got* est forcément un auxiliaire). La question de ce choix ne se pose qu'aux formes non assertives (i.e. négation, interrogation, emphase) du présent ou du prétérit. Dans ~~I have a problem.~~, rien ne permet de dire si *have* est syntaxiquement auxiliaire ou verbe, et la question n'a que peu d'intérêt. Ce choix, par ailleurs, n'est absolument pas problématique puisqu'on peut toujours, en dehors du parfait, utiliser *have* comme verbe (~~I don't have any objections~~.).
 
@@ -209,7 +208,7 @@ Par ailleurs, l'emploi de la forme contractée '*ve* non suivie de *got* est ass
 
 > I've a few theories, as does avery cricket journalist worth his salt. (www.the-guardian.com)
 
-## GET
+## Get
 
 Contrairement à *be* et *have*, *get* a toujours les caractéristiques d'un verbe. Il leur est cependant proche dans les domaines de la syntaxe et du sens. En syntaxe, il faut mentionner, en plus de son association avec *have* dans *have got*, le fait que *get* peut occuper la même place que *be* ou *have* dans certaines constructions :
 

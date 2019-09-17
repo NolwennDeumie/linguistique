@@ -1,6 +1,6 @@
 ---
 title: "Auxiliaires et verbes"
-tocmaxdepth: 2
+tocmaxdepth: 1
 menu:
   docs:
     parent: gv
@@ -11,58 +11,58 @@ menu:
 
 Il y a deux catégories d’éléments verbaux qui peuvent entrer dans la composition d’un GV : les auxiliaires et les verbes.
 
-Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verbes n’ont pas.
+Les auxiliaires se définissent par deux caractéristiques syntaxiques que les verbes n’ont pas.
 
--   Leur négation se forme par le simple ajout de not, contracté en n’t dans isn’t, can’t, etc.
--   Ils permettent le passage de la forme déclarative à la forme interrogative par simple inversion avec le groupe sujet : ~~Your brother can swim. Can your brother swim ?~~
+-   Leur négation se forme par l'ajout de *not*, contracté en *n’t* dans ~~isn’t~~, ~~can’t~~, etc.
+-   Ils permettent le passage de la forme déclarative à la forme interrogative par inversion avec le groupe sujet : ~~Your brother can swim. Can your brother swim ?~~
 
-Les 11 éléments suivants répondent à cette définition : *BE, HAVE, CAN, MAY, MUST, WILL, SHALL, OUGHT, NEED, DARE*. Notons toutefois que certains comme BE et HAVE (cf. chap I.2.) fonctionnent tantôt comme des auxiliaires et tantôt comme des verbes.
+Les 11 éléments suivants répondent à cette définition : *be, have, can, may, must, will, shall, ought, need, dare*. Notons toutefois que certains comme *be* et *have* fonctionnent tantôt comme des auxiliaires, tantôt comme des verbes.
 
 ## Les formes du verbe
 
-Prenons EAT. On peut trouver ce verbe sous 5 formes :
+Prenons *eat*. On peut trouver ce verbe sous cinq formes :
 
--   **eat**, la forme “nue” du verbe ou **base verbale** (représentée par V). Elle est utilisée pour le présent simple, le subjonctif, l’impératif et l’infinitif.
+-   **eat**, la **base verbale** (représentée par V). Elle est utilisée pour le présent simple, le subjonctif, l’impératif et l’infinitif.
 -   **eats**, la forme verbe + -s (V-s), employée pour la 3e personne du singulier du présent simple.
 -   **ate**, le **prétérit** (V-ed).
 -   **eating**, la **forme en -ING** (V-ing).
 -   **eaten**, le **participe passé** (V-en).
 
-Notons à propos de l’infinitif qu’il faut distinguer l'infinitif sans *TO*, ou infinitif proprement dit, et l’infinitif précédé de *TO*, ou *TO* + V.
+Il faut distinguer l'infinitif sans *to*, ou infinitif proprement dit, et l’infinitif précédé de *to*, ou *to* + V.
 
-{{% small %}} Le mot ***TO*** joue un rôle particulier : parfois c’est une **préposition** (~~I’m going to London~~), parfois c’est la **particule infinitive**. Il faut distinguer ces deux valeurs syntaxiques mais ne pas oublier que **le changement de valeur syntaxique ne change pas le sens fondamental** de TO (à savoir un “mouvement vers”), que l’on retrouve tant dans la préposition que dans la particule infinitive. {{% /small %}}
+{{% small %}} Le mot ***to*** joue un rôle particulier : parfois c’est une **préposition** (~~I’m going **to** London~~), parfois c’est la **particule infinitive**. Il faut distinguer ces deux valeurs syntaxiques mais ne pas oublier que **le changement de valeur syntaxique ne change pas le sens fondamental** de *to* (à savoir un “mouvement vers”), que l’on retrouve dans la préposition et dans la particule infinitive. {{% /small %}}
 
 
 ## Valeurs sémantiques des formes du verbe
 
-Les cinq formes du verbe sont différentes façons de voir un **événement** (i.e. l’ensemble de ce qui est désigné par une proposition). Un événement peut tout aussi bien désigner un fait correspondant à une action (~~He opened the door~~) qu’un fait de nature “statique” (~~I like chocolate~~ ou encore ~~Cats are carnivorous~~).
+Les cinq formes du verbe sont différentes façons de voir un **événement** (i.e. l’ensemble de ce qui est désigné par une proposition). Un événement peut désigner un fait correspondant à une **action** (~~He opened the door~~) ou un fait de nature **“statique”** (~~I like chocolate~~, ~~Cats are carnivorous~~).
 
--   **Forme V** (verbe seul). Un verbe considéré isolément désigne une notion. Lorsqu’un verbe ne porte aucune marque (donc qu’il est base verbale), cela signifie qu’aucune limitation n’est introduite dans la notion désignée par le verbe (~~eat~~) ou dans l’événement désigné par la proposition (~~I eat apples~~, donc si le verbe a un sujet et des compléments). Lorsqu’on emploie une base verbale seule, c’est un point de vue **global**, la proposition est considérée “en bloc”.
+-   **Forme V** (verbe seul). Un verbe pris seul désigne une notion. Lorsqu’un verbe ne porte aucune marque ( i.e. qu’il est base verbale), aucune limitation n’est introduite dans la notion désignée par le verbe (~~eat~~) ou dans l’événement désigné par la proposition (~~I eat apples~~, donc si le verbe a un sujet et des compléments). Lorsqu’on emploie une base verbale seule, c’est un point de vue **global**, la proposition est considérée “en bloc”.
 
--   **Formes V-s et V-ed**. Les éléments -s et -ed ne modifient pas le caractère global du pdv exprimé par V. Elles expriment donc une vision globale de l’événement, comme V. (voir I.3. pour les différences examinées.)
+-   **Formes V-s et V-ed**. Les éléments -s et -ed ne modifient pas la globalité du point de vue exprimé par V. Elles expriment également une vision globale de l’événement.
 
--   **Forme TO + V**. Le mot TO exprime de façon fondamentale un “mouvement vers”. Mais il ne s’agit pas nécessairement d’un mouvement au sens concret du terme, d’un mouvement dans l’espace, il peut s’agir d’un mouvement de nature abstraite. C’est le cas avec TO + V, où TO exprime, métaphoriquement, un mouvement vers la réalisation d’un événement.
+-   **Forme TO + V**. Le mot *to* exprime fondamentalement un “mouvement vers”. Mais il ne s’agit pas nécessairement d’un mouvement au sens concret du terme, d’un mouvement dans l’espace, il peut s’agir d’un mouvement abstrait. C’est le cas avec *to** + V, où *to* exprime, métaphoriquement, un mouvement vers la réalisation d’un événement.
 
 -   **Forme V-ing**. L’énonciateur se place mentalement **pendant** l’événement. V-ing exprime un regard sur un événement en un point quelconque de son déroulement. (Nous verrons plus tard que ce point peut être déterminé, unique ou multiple, fixe ou mobile, etc.).
 
--   **Forme V-en**. On se place **après** l’événement, on effectue un retour en arrière. Il peut s’effectuer sur un événement terminé (~~He has broken his arm~~) ou sur un événement qui dure encore au moment présent et n’est pas forcément terminé (~~He has lived in London for 10 years~~).
+-   **Forme V-en**. On se place **après** l’événement, on effectue un retour en arrière. Il peut se faire sur un événement terminé (~~He has broken his arm~~) ou sur un événement qui dure encore au moment présent et n’est pas forcément terminé (~~He has lived in London for 10 years~~).
 
 
 ## Formes des auxiliaires
 
-Les formes seront détaillées plus loin, nous ferons simplement ici des remarques d’ordre général.
+Les formes seront détaillées plus loin, nous ferons ici des remarques d’ordre général.
 
--   L’auxiliaire DO et les modaux sont “**défectifs**” : ils ne possèdent pas d’autres formes qu’un présent et/ou un prétérit.
--   La plupart des auxiliaires ont des formes réduites. Must est prononcé soit /m∧st/ (forme pleine, donc non réduite), soit /məs/ ou /ms/ (formes réduites). Il existe dans la langue écrite une opposition forme contractée/non contractée (I’m/I am) qui correspond à l’opposition entre la ou les formes réduites et la forme pleine. Le choix entre ces deux formes obéit aux 2 principes suivants :
-    -   Les formes réduites appartiennent à la langue non recherchée (dans le langage parlé courant, la forme ~~I’m ready~~ est donc la norme).
+-   L’auxiliaire *do* et les modaux sont “**défectifs**” : ils ne possèdent pas d’autres formes qu’un présent et/ou un prétérit.
+-   La plupart des auxiliaires ont des formes réduites. Must est prononcé soit /m∧st/ (forme pleine), soit /məs/ ou /ms/ (formes réduites). Il existe dans la langue écrite une opposition forme contractée/non contractée (I’m/I am) qui correspond à l’opposition entre la ou les formes réduites et la forme pleine. Le choix entre ces deux formes obéit aux 2 principes suivants :
+    -   Les formes réduites appartiennent à la langue non recherchée (dans le langage parlé courant, la forme ~~I’m ready~~ est la norme).
     -   Les formes réduites sont exclues quand l’auxiliaire n’est pas suivi du reste du GV ou lorsqu’il en est séparé par une incise ou toute forme de rupture (~~She **has**, by the way, finished the job~~).
 
 
-## Modes et temps, structure du GV
+## Modes et temps
 
-Le GV peut être à un **mode personnel** ou **impersonnel** (i.e. mode fini et mode non fini). Les modes personnels sont ceux où le GV a nécessairement un sujet : il s’agit de **l’indicatif**, du **subjonctif** et de **l’impératif**. Les modes impersonnels sont **l’infinitif** (précédé ou non de TO), la **forme V-ing** et le **participe passé**.
+Le GV peut être à un **mode personnel** ou **impersonnel** (i.e. mode fini et mode non fini). Les modes personnels sont ceux où le GV a nécessairement un sujet : il s’agit de **l’indicatif**, du **subjonctif** et de **l’impératif**. Les modes impersonnels sont **l’infinitif** (précédé ou non de *to*), la **forme V-ing** et le **participe passé**.
 
-On ne va considérer ici que les GV à l’indicatif, les autres modes seront vus au chapitre I.10., et à la voix active.
+On ne va considérer ici que les GV à l’indicatif et à la voix active.
 
 Traitons d’abord des formes **assertives** (i.e. déclaratives positives). Rappel :
 
@@ -239,28 +239,28 @@ Le tableau ci-dessous représente les différents types de formes simples et com
 Ce tableau appelle plusieurs commentaires.
 
 
--   Toutes les formes résultent de la formule qui suit (entre parenthèses ce qui est optionnel) : ~~tense + (modal) + (HAVE + -EN) + (Be + -ING) + V~~
+-   Toutes les formes résultent de la formule qui suit : ~~tense + (modal) + (HAVE + -EN) + (Be + -ING) + V~~
 
 -   Comme on le voit, tout GV à l’indicatif est **nécessairement** au **présent** ou au **prétérit**. Du point de vue syntaxique, il n’y a en anglais que ces deux temps (rappel : ~~tense~~ désigne un temps syntaxique).
 
 
-{{% small %}} Les éléments HAVE + -EN ou BE + -ING, *WILL*, *SHALL*, etc. ne sont **pas** des temps : on voit d’ailleurs que le présent ou le prétérit ne font que s’ajouter à eux. Il n’existe **pas** de temps syntaxique futur ou conditionnel : ~~would~~ est simplement la forme prétérit de ~~WILL~~, ~~should~~ la forme prétérit de ~~SHALL~~, etc. {{% /small %}}
+{{% small %}} Les éléments *have* + -EN ou *be** + -ING, *will*, *shall*, etc. ne sont **pas** des temps : on voit d’ailleurs que le présent ou le prétérit ne font que s’ajouter à eux. Il n’existe **pas** de temps syntaxique futur ou conditionnel : ~~would~~ est simplement la forme prétérit de ~~will~~, ~~should~~ la forme prétérit de ~~shall~~, etc. {{% /small %}}
 
 
 -   La marque du temps est nécessairement portée par le **premier élément** du GV. Elle ne peut figurer qu’une fois dans un même GV.
 -   En plus de la marque du temps, le premier élément du GV porte (le cas échéant) la marque de l’accord sujet-verbe.
--   HAVE + -EN et BE + -ING sont des formes “**discontinues**” (constituées de 2 éléments séparés).
--   Les éléments du GV ne peuvent se combiner que dans l’ordre indiqué par le tableau, si modal il y a, il vient obligatoirement en tête et ne peut être suivi par un autre modal, viennent ensuite éventuellement HAVE + -EN puis BE + -ING.
+-   *have** + -EN et *be* + -ING sont des formes “**discontinues**” (constituées de 2 éléments séparés).
+-   Les éléments du GV ne peuvent se combiner que dans l’ordre indiqué par le tableau. Si modal il y a, il vient obligatoirement en tête et ne peut être suivi par un autre modal, viennent ensuite éventuellement *have* + -EN puis *be* + -ING.
 
 
-Parmis les formes composées, il faut inclure le **passif**, qui ajoute BE + -EN aux autres éléments du GV ( chap. III.5.)
+Parmis les formes composées, il faut inclure le **passif**, qui ajoute *be* + -EN aux autres éléments du GV.
 
 
 ## L'auxiliaire DO
 
-Pour les formes verbales simples assertives (~~John works/worked~~), le passage à une forme négative, interrogative ou emphatique exige l’ajout de DO (~~Does/Did John work ? John does/did work.~~)
+Pour les formes verbales simples assertives (~~John works/worked~~), le passage à une forme négative, interrogative ou emphatique exige l’ajout de *do* (~~Does/Did John work ? John does/did work.~~)
 
-~~DO~~ a deux propriétés importantes : il n’existe qu’au présent et au prétérit, et il exclut la présence de tout autre auxiliaire (il est donc incompatible avec HAVE + -EN, BE + -ING et avec tout modal).
+~~Do~~ a deux propriétés importantes : il n’existe qu’au présent et au prétérit, et il exclut la présence de tout autre auxiliaire (il est donc incompatible avec *have* + -EN, *be* + -ING et tout modal).
 
 <table>
     <tbody>
@@ -324,15 +324,12 @@ Pour les formes verbales simples assertives (~~John works/worked~~), le passage 
     </tbody>
 </table>
 
-{{% small %}} Il ne faut pas confondre l’auxiliaire **DO** avec le verbe **DO**. Comme tous les verbes, ce dernier exige dans certains cas l’emploi de l’auxiliaire **DO** : ~~what do you do for a living ?~~ {{% /small %}}
+{{% small %}} Il ne faut pas confondre l’auxiliaire **do** avec le verbe **do**. Comme tous les verbes, ce dernier exige dans certains cas l’emploi de l’auxiliaire **do** : ~~What do you do for a living ?~~ {{% /small %}}
 
-La valeur sémantique de DO sera revue au chapitre III.1.
 
 ## Rôle de l’auxiliaire dans certaines constructions
 
-C’est ici un aperçu général des constructions, qui se rattachent à des domaines divers de la grammaire et qui seront traités plus en détail dans les chapitres III.1., III.4. et IV.6.
-
-Il faut souligner le rôle important que joue, dans toutes les constructions non assertives de l’indicatif, le **premier auxiliaire** du GV (ou, dans des énoncés comme ~~He doesn’t work~~, l’auxiliaire unique).
+Il faut souligner le rôle important que joue le **premier auxiliaire** du GV (ou, dans des énoncés comme ~~He doesn’t work~~, l’auxiliaire unique).
 
 Cet auxiliaire a deux fonctions syntaxiques : il sert de **support à la marque du temps** et il **occupe une place particulière** dans un certain nombre de structures.
 
@@ -350,17 +347,17 @@ Si le mot interrogatif (ou l’expression interrogative) est sujet de la phrase,
 
 Attention à ne pas confondre par exemple ~~Who saw you ?~~ et ~~Who did you see ?~~
 
-{{% small %}} Contrairement au français, l’anglais n’utilise pas vraiment les questions à la forme déclarative. Dans la plupart des situations, on utilisera ~~Are you ready ?~~ et non ~~You are ready ?~~ (qui a une forte orientation positive et n’est pas très éloigné de l’affirmation). {{% /small %}}
+{{% small %}} Contrairement au français, l’anglais n’utilise pas vraiment les questions à la forme déclarative. Dans la plupart des situations, on utilisera ~~Are you ready ?~~ et non ~~You are ready ?~~ (qui a une forte orientation positive et n’est que peu éloigné de l’affirmation). {{% /small %}}
 
 ### Constructions négatives
 
-Il s’agit d’une construction utilisant la négation *NOT*, laquelle s’appuie obligatoirement sur un auxiliaire. Les négations autres que *NOT* ne déclenchent pas l’emploi de *DO* au présent/prétérit simples : ~~he doesn’t smoke~~ vs ~~he never smokes~~.
-Autre règle importante : NOT est obligatoirement placé après le premier auxiliaire.
+Il s’agit d’une construction utilisant la négation *not*, laquelle s’appuie obligatoirement sur un auxiliaire. Les négations autres que *not* ne déclenchent pas l’emploi de *do* au présent/prétérit simples : ~~he doesn’t smoke~~ vs ~~he never smokes~~.
+Autre règle importante : *not* est obligatoirement placé **après** le premier auxiliaire.
 ~~He may **not** have been at home~~ et surtout pas ~~He may have not been at home~~.
 
 ### Constructions interro-négatives
 
-Cette construction, qui associe à *NOT* la structure “auxiliaire-sujet”, pose le problème de la place de la négation. Si le sujet est un **pronom**, il y a deux possibilités.
+Cette construction, qui associe à *not* la structure “auxiliaire-sujet”, pose le problème de la place de la négation. Si le sujet est un **pronom**, il y a deux possibilités :
 
 ~~Isn’t he English ?~~ NB: avec cet ordre des mots, la contraction est obligatoire.
 
@@ -368,7 +365,7 @@ Cette construction, qui associe à *NOT* la structure “auxiliaire-sujet”, po
 
 Si le sujet n’est pas un pronom, on peut trouver, dans un style recherché ou dans une volonté d’insister sur la négation, la tournure ~~Is not the writer English ?~~, mais on utilisera plus souvent le même ordre des mots qu’avec un pronom (i.e. ~~Isn’t the writer English ? Is the writer not English ?~~).
 
-{{% small %}} Pour la première personne du singulier de BE, la forme interro-négative contractée est ~~aren’t I~~ /’αːntaɪ/ : à ~~Am I not English ?~~ (niveau de langue recherché) correspond ~~Aren’t I English ?~~ (niveau de langue non recherché). {{% /small %}}
+{{% small %}} Pour la première personne du singulier de *be*, la forme interro-négative contractée est ~~aren’t I~~ /’αːntaɪ/ : à ~~Am I not English ?~~ (niveau de langue recherché) correspond ~~Aren’t I English ?~~ (niveau de langue non recherché). {{% /small %}}
 
 ### Constructions emphatiques
 
@@ -376,31 +373,31 @@ Si le sujet n’est pas un pronom, on peut trouver, dans un style recherché ou 
 
 Nous verrons plus tard que cette construction n’exprime pas forcément une “insistance”.
 
-### Reprise par auxiliaires : généralités
+## Reprise par auxiliaires : généralités
 
-Les reprises par auxiliaire sont formées à l’aide d’un groupe nominal sujet et d’un auxiliaire. Sauf cas particuliers indiqués plus loin, tout ce qui suit le premier auxiliaire est effacé.
+Les reprises par auxiliaire sont formées avec un GN sujet et un auxiliaire. Sauf cas particuliers indiqués plus loin, tout ce qui suit le premier auxiliaire est effacé.
 
 > Will Jane wait for him ? Yes, she will. / No, she won’t.
 
 La forme des reprises par auxiliaire permet de jouer sur le GN (reprise du même GN ou introduction d’un nouveau), et sur l’orientation (positive ou négative ou encore question). Par ailleurs, la reprise peut être faite soit pas le même locuteur, soit par un autre. Tout cela produit des effets divers : confirmation, dénégation, doute, indignation, etc.
 
-- Au présent et au prétérit simples, on doit utiliser l’auxiliaire DO.
-- Dans la construction ~~there is~~ / ~~are~~ / …, there joue le rôle syntaxique de sujet, et c’est lui qui est repris.
-- Les indéfinis au singulier (~~somebody~~, etc.) sont habituellement repris par le pronom they et, dans la reprise elle-même, l’accord de l’auxiliaire se fait également au pluriel (~~Nobody has finished, have they ?~~).
+- Au présent et au prétérit simples, on doit utiliser l’auxiliaire *do*.
+- Dans la construction ~~there is~~ / ~~are~~ / …, ~~there~~ joue le rôle syntaxique de sujet, c’est lui qui est repris.
+- Les indéfinis au singulier (~~somebody~~, etc.) sont habituellement repris par le pronom ~~they~~ et, dans la reprise elle-même, l’accord de l’auxiliaire se fait aussi au pluriel (~~Nobody has finished, have they ?~~).
 
 
 
-BE et HAVE ont un fonctionnement particulier dans ces constructions : dans de nombreux cas, ils ne peuvent pas être omis à la suite du premier auxiliaire. On omet seulement ce qui suit BE/HAVE. Ceci concerne essentiellement BE suivi d’un attribut du sujet, et HAVE auxiliaire du parfait.
+*Be* et *have* ont un fonctionnement particulier dans ces constructions : dans de nombreux cas, ils ne peuvent pas être omis à la suite du premier auxiliaire. On omet seulement ce qui suit *be / have*. Ceci concerne essentiellement *be* suivi d’un attribut du sujet, et *have* auxiliaire du parfait.
 
 > Nora likes that film very much. How can she ?
 
-> Nora**’s** very enthusiastic about that film. How can she **be** ?
+> Nora **’s** very enthusiastic about that film. How can she **be** ?
 
 > I’m sure he doesn’t like it. Why should he ?
 
 > I’m sure he **isn’t** pleased. Why should he **be** ?
 
-De la même façon, on ne pourrait pas omettre have ou have been dans :
+De la même façon, on ne pourrait pas omettre ~~have~~ ou ~~have been~~ dans :
 
 > They didn’t complain, but they should have.
 
@@ -408,57 +405,57 @@ Ici, ~~but they should~~ équivaudrait à “ils devraient” et non à “ils a
 
 > Were they scared ? Well, they must have been.
 
-Dans le doute, il est plus prudent de ne pas omettre BE / HAVE, le seul risque sera la lourdeur de la construction, tout au plus.
+Dans le doute, il est plus prudent de ne pas omettre *be / have*, le seul risque sera la lourdeur de la construction.
 
-{{% small %}} Dans certaines variétés d’anglais, notamment l’anglais britannique, on peut avoir recours au remplacement de ce qui suit l’auxiliaire par DO : ~~So far he has never asked that question, but next time he might do.~~ {{% /small %}}
+{{% small %}} Dans certaines variétés d’anglais, notamment l’anglais britannique, on peut remplacer ce qui suit l’auxiliaire par *do* : ~~So far he has never asked that question, but next time he might do.~~ {{% /small %}}
 
-### Types essentiels de construction avec reprise par auxiliaire
+## Types essentiels de construction avec reprise par auxiliaire
 
 (L’accent principal de groupe intonatif est indiqué par les majuscules, la flèche précédente indique l’intonation.)
 
-#### Réponses abrégées (i.e. short answers)
+### Réponses abrégées (i.e. short answers)
 
 > “I wonder if he liked the film.” “I’m sure he ↘DID.”
 
 > "I'm afraid Ken didn't like the film." "But he ↘DID!"
 
-..- Mais si ! Remarquez qu'en français, le passage du négatif au positif est indiqué par "si", et en anglais par l'accentuation de l'auxiliaire.
+..- Mais si ! Een français, le passage du négatif au positif est indiqué par "si", et en anglais par l'accentuation de l'auxiliaire.
 
 > “Are there any difficulties ?” “Yes, there ↘ARE.”
 
 {{% small %}} Cas particulier : reprise interro-négative pour exprimer une approbation avec une intonation obligatoirement descendante et parfois à la suite d'une reprise déclarative. ~~“The weather’s really gorgeous !” “Yes, it is, ↘ISn’t it ?”~~ {{% /small %}}
 
-#### Question posée par l’interlocuteur
+### Question posée par l’interlocuteur
 
 > “I’ve sold my motorbike.” “Have you ?”
 
-Les termes déjà introduits sont repris sous forme de question. L'intonation peut être montante ou descendante et plus ou moins creusée. On obtient donc des sens très variés : faible intérêt (Ah bon ?), faible surprise (Vraiment ? Tiens donc.), mise en doute, grande surprise, indignation (Pas possible ! Sans blague !).
+Les termes déjà introduits sont repris sous forme de question. L'intonation peut être montante ou descendante. On obtient donc des sens très variés : faible intérêt (Ah bon ?), faible surprise (Vraiment ? Tiens donc.), mise en doute, grande surprise, indignation (Pas possible ! Sans blague !).
 
-#### Modification de tous les termes (orientation et sujet)
+### Modification de tous les termes (orientation et sujet)
 
 > ~~"I think Ken liked the film." "But ↘TIna ↗DIDn't. / ↘TIna ↘DIDn't."~~
 
 > ~~"Ken didn't like the film, but ↘I ↗DID. / ↘I ↘DID."~~
 
-Remarquez la possibilité d'une double accentuation, qui correspond à l'introduction d'un nouveau GN sujet en même temps que d'une nouvelle orientation. L'énonciateur ouvre ou ferme la discussion selon que l'intonation du dernier élément est montante ou descendante.
+Remarquez la possibilité d'une double accentuation, qui correspond à l'introduction d'un nouveau GN sujet en même temps que d'une nouvelle orientation. L'énonciateur ouvre ou ferme la discussion selon l'intonation du dernier élément.
 
-#### Construction *so* + GN sujet + auxiliaire
+### Construction *so* + GN sujet + auxiliaire
 
 Sert à exprimer une confirmation étonnée. L'interlocuteur reprend (mais sous la forme d'un pronom et d'un auxiliaire) tous les termes introduits précédemment :
 
 ~~"Someone has been trying to open the door." "So they ↘HAVE !"~~ Quelqu'un a essayé d'ouvrir la porte. -En effet ! / Mais c'est vrai !
 
-#### Reprises interrogatives (~~"question tags"~~), cas général
+### Reprises interrogatives (~~"question tags"~~), cas général
 
 Il n'y a pas de changement de locuteur. L'intonation est descendante quand il ne s'agit pas véritablement d'une question (appel à l'interlocuteur pour attirer son attention, obtenir une simple confirmation, etc.).
 
 ~~"Fred likes tennis, ↘DOESn't he ? / ↗DOESn't he ?"~~ Fred aime le tennis, hein ? / non ? / n'est-ce pas ? / pas vrai ?
 
-~~"Nice morning, ↘ISn't it ?"~~ Intonation obligatoirement descendante, il ne peut s'agir véritablement d'une question.
+~~"Nice morning, ↘ISn't it ?"~~ Intonation obligatoirement descendante, il ne peut s'agir d'une vraie question.
 
 Les ~~"question tags"~~ sont beaucoup plus utilisés que leurs équivalents français. En règle générale, la reprise est **négative** (interro-négation) après un GV **positif**, et **positive** après un GV **négatif** (ou contenant une idée de négation, avec des mots tels que ~~hardly~~ ou ~~few~~ : ~~"there was very little traffic, was there ?~~).
 
-#### Reprises interrogatives, cas particuliers
+### Reprises interrogatives, cas particuliers
 
 Pour produire certains effets tels que l'ironie ou la surprise, on peut faire suivre un GV positif par une reprise également positive, c'est ce qu'on appelle les ~~"same way tags"~~.
 
@@ -477,7 +474,7 @@ Si l'auxiliaire est BE, on peut cependant avoir l'ordre interrogatif :
 
 > "He was a dying breed, was Cruz, Carriscant reflectef." (W. Boyd, The Blue Afternoon)
 
-#### Question avec changement de sujet
+### Question avec changement de sujet
 
 On pose une vraie question (avec une intonation montante), à propos d'un nouveau GN sujet.
 
@@ -487,11 +484,11 @@ La question peut également porter sur l'identité du sujet.
 
 > "He'd like to meet you, by the way." "WHO does ?"
 
-#### Ajout d'une remarque, avec changement d'auxiliaire
+### Ajout d'une remarque, avec changement d'auxiliaire
 
 > "I've never played football, and I never ↘WILL."
 
-#### Construction *so* / *neither* / *nor* + auxiliaire + GN sujet
+### Construction *so* / *neither* / *nor* + auxiliaire + GN sujet
 
 NB : Ne pas confondre avec la construction ***so*** + GN sujet + auxiliaire.
 
@@ -501,7 +498,7 @@ Le locuteur peut être le même, ou différent. Reprise de l'orientation (oui/no
 
 > "They haven't got a car." " 'Neither / 'Nor 'have ↘WE."
 
-#### Construction GN sujet + auxiliaire + *too* / *either*
+### Construction GN sujet + auxiliaire + *too* / *either*
 
 Sens identique à celui de la construction précédente.
 
