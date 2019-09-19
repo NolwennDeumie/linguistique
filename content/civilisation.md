@@ -9,8 +9,9 @@ menu:
     weight: 2
 ---
 
-- [Introduction](introduction)
-- [Context: the Thirteen British Colonies around 1775](context)
-- [Colonial relationships with Great Britain](colonial-relationships)
-- [Rise of opposition](rise-of-opposition)
-- [Boston campaign](boston-campaign)
+- The American Revolution
+  - [Introduction](introduction)
+  - [Context: the Thirteen British Colonies around 1775](context)
+  - [Colonial relationships with Great Britain](colonial-relationships)
+  - [Rise of opposition](rise-of-opposition)
+  - [Boston campaign](boston-campaign)

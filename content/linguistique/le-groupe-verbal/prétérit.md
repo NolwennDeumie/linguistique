@@ -11,7 +11,7 @@ menu:
 
 ~~I / he / we  **worked**~~ (base verbale + terminaison -ed)
 
-## Prononcer le -ed du prétérit
+### Prononcer le -ed du prétérit
 
 /ɪd/ ou /əd/ (selon variété d'anglais) |    /t/     |       /d/
 -------------------------------------- | ---------- | ----------------
@@ -23,7 +23,7 @@ Le choix entre /t/ et /d/ dépend de la facilité de prononciation.
 
 > remember : /rɪ'membə/ → remembered : /rɪ'membəd/ {{% /small %}}
 
-## Cas particuliers orthographiques
+### Cas particuliers orthographiques
 
 - Si la base verbale se termine par un -e, on ajoute seulement -d.
 

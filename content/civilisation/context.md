@@ -11,7 +11,7 @@ menu:
 
 The colonies were created between **early 17th century** and the **first third of the 18th century** on hundreds of kilometers along the Atlantic coast. Communication between them were often slow and complicated: the existing roads were in a pretty bad shape and there were only few bridges.
 
-![Carte des 13 colonies](/images/civilisation/map-13-colonies.png)
+![Carte des 13 colonies](/images/civilisation/map-13-colonies.svg)
 
 ## Population
 

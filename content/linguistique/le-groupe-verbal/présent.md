@@ -36,7 +36,7 @@ Le choix entre /s/ et /z/ dépend simplement de la facilité de prononciation. /
 - Un **-y** final précédé d'une consonne devient **-ie** (~~he tries~~).
 
 
-## Le présent : sens et emplois
+## Sens et emplois
 
 L'emploi de la forme du présent indique que l'énonciateur place son point de vue au **moment présent** et qu'il montre comme **réel** au moment présent ce qui est représenté par le verbe ou l'auxiliaire.
 
