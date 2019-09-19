@@ -1,7 +1,8 @@
 ---
 title: "Prétérit"
+portail: linguistique
 menu:
-  docs:
+  linguistique:
     parent: gv
     weight: 3
 ---
@@ -41,7 +42,7 @@ Le choix entre /t/ et /d/ dépend de la facilité de prononciation.
 
 - Les sigles peuvent aussi être suivis de terminaisons : ~~He OK'd / OKd the project.~~
 
-## Sens et emploi 
+## Sens et emploi
 
 Le prétérit, par opposition au présent, fait apparaître ce qui est représenté par le verbe ou l'auxiliaire comme **non réel** au moment présent. Cette non-réalité peut prendre plusieurs formes, c'est ce qui détermine les catégories d'emploi du prétérit.
 
@@ -65,7 +66,7 @@ Un autre aspect important du prétérit simple est qu'il exprime une vision glob
 
 > John Ducane looked into the eyes of Jessica Bird. Jessica's eyes slowly filled with tears. Ducane looked away, sideways, downward. (I. Murdoch, **The Nice and the Good**)
 
-{{% small %}} Il existe un emploi du prétérit dans une zone où il est en concurrence avec le present perfect : ~~Look, you broke the armchair ! I already saw this film.~~ Dans cet emploi (qui ne doit être imité qu'avec prudence), le point de vue privilégie le caractère passé de l'événement plutôt que sa relation avec le moment présent. {{% /small %}} 
+{{% small %}} Il existe un emploi du prétérit dans une zone où il est en concurrence avec le present perfect : ~~Look, you broke the armchair ! I already saw this film.~~ Dans cet emploi (qui ne doit être imité qu'avec prudence), le point de vue privilégie le caractère passé de l'événement plutôt que sa relation avec le moment présent. {{% /small %}}
 
 - Événements qui peuvent être situés de façon vague dans le passé mais qu'il est normal de considérer en bloc et non en un point de leur durée dans le temps (comparez avec le présent simple) :
 
@@ -87,7 +88,7 @@ Un autre aspect important du prétérit simple est qu'il exprime une vision glob
 
 > I decided that I'd tell him if I saw him.
 
-Le prétérit ne peut pas situer un élément dans le temps à lui seul, il faut impérativement un repère temporel. Ce dernier peut être explicite (~~In 1990, John lived in London.~~) ou implicite (~~The Gauls lived in huts.~~). Il peut être précis (date, heure, etc.) ou assez vague (~~formerly~~ = autrefois, ~~in past centuries~~ = dans les siècles passés, etc.). Les formules avec ~~ago~~ (ou ~~back~~ dans une langue plutôt familière) constituent l'un des moyens d'établir un repère temporel. 
+Le prétérit ne peut pas situer un élément dans le temps à lui seul, il faut impérativement un repère temporel. Ce dernier peut être explicite (~~In 1990, John lived in London.~~) ou implicite (~~The Gauls lived in huts.~~). Il peut être précis (date, heure, etc.) ou assez vague (~~formerly~~ = autrefois, ~~in past centuries~~ = dans les siècles passés, etc.). Les formules avec ~~ago~~ (ou ~~back~~ dans une langue plutôt familière) constituent l'un des moyens d'établir un repère temporel.
 
 > We met two years ago.
 
@@ -104,7 +105,7 @@ A propos du passage de discours direct à indirect (vous trouverez un récapitul
 
 On peut donner une formulation générale de cette règle : si le verbe de la proposition qui **introduit** le discours **indirect** est au **prétérit** (dans les exemples, ~~said~~), le verbe ou le premier auxiliaire de l'énoncé rapporté sera **aussi au prétérit**.
 
-Il faut prendre en compte deux cas particuliers : 
+Il faut prendre en compte deux cas particuliers :
 
 - Si l'on rapporte au style indirect des faits considérés comme valables d'une façon générale, et donc comme toujours valables au moment présent, on peut utiliser le **présent** et non le prétérit dans la proposition qui correspond à l'énoncé rapporté.
 
@@ -120,7 +121,7 @@ Toutefois, on conserve le prétérit si l'énonciateur-rapporteur repère l'év�
 
 > Somebody **told** you the new boss **arrived** yesterday, didn't they ?
 
-{{% small %}} La transformation prétérit → past perfect n'est donc pas automatique quand on rapporte au style indirect un récit situé dans le passé (et qui relate des événements encore antérieurs). Si le contexte rend évident que ces événements sont situés dans un passé au second degré, on peut garder le prétérit de l'énoncé originel. 
+{{% small %}} La transformation prétérit → past perfect n'est donc pas automatique quand on rapporte au style indirect un récit situé dans le passé (et qui relate des événements encore antérieurs). Si le contexte rend évident que ces événements sont situés dans un passé au second degré, on peut garder le prétérit de l'énoncé originel.
 
 > "The accident happened at about 4 pm," the witness said. "It was raining."
 
@@ -154,7 +155,7 @@ Comparons présent et prétérit dans ces deux énoncés :
 
 Dans les deux cas, l'événement a un caractère **imaginaire** (c'est une hypothèse). La différence est implicite. L'énoncé au présent ne nous dit rien sur le caractère vrai ou faux, dans la réalité, de l'hypothèse. En revanche, l'énoncé au prétérit présuppose que, dans la réalité, cette hypothèse est fausse, c'est à cette présupposition (**présupposition d'irréalité**) que correspond l'emploi du prétérit.
 
-La présupposition irréelle est parfois liée à un souhait, comme dans les énoncés avec ~~wish~~, du moins dans une de ses constructions : 
+La présupposition irréelle est parfois liée à un souhait, comme dans les énoncés avec ~~wish~~, du moins dans une de ses constructions :
 
 > I wish I **had** a dog. J'aimerais / Je regrette de ne pas avoir un chien.
 
@@ -192,7 +193,7 @@ Abordons pour finir un emploi du prétérit hypothétique qui pose parfois probl
 
 > I think Wieland is a fool and a charlatan and anyone who listened to him would be mad. (W. Boyd, **The Blue Afternoon**)
 
-L'équivalent français de ~~..anyone who listened to him~~ est "quiconque l'écouterait". Deux choses sont à expliquer : 
+L'équivalent français de ~~..anyone who listened to him~~ est "quiconque l'écouterait". Deux choses sont à expliquer :
 
 - Malgré le sens "conditionnel", ~~would listen~~ n'est pas employé.
 - On emploie le prétérit. Cela s'explique à la fois par le caractère hypothétique et non réel de la proposition (i.e. ~~If someone listened to him, they would be mad~~). Il est par ailleurs difficile de dire si c'est une valeur d'irréel ou une valeur de doute, c'est la zone floue séparant ces deux valeurs.
@@ -217,7 +218,7 @@ Avec ~~want~~, ~~wonder~~ ou encore ~~hope~~, il existe un emploi du prétérit 
 
 > I **was hoping** we could have a chat.
 
-On constate que le prétérit ajoute à l'énoncé une hésitation ou un doute implicite. Ils peuvent porter sur au moins deux choses : 
+On constate que le prétérit ajoute à l'énoncé une hésitation ou un doute implicite. Ils peuvent porter sur au moins deux choses :
 
 - L'acte de demande exprimé ("... mais je ne sais pas si je peux / si je vais oser vous le demander".)
 - L'accomplissement de l'action demandée par l'interlocuteur ("... mais je ne sais pas si vous allez pouvoir / vouloir me rendre ce service.")

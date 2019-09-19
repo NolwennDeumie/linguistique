@@ -1,7 +1,8 @@
 ---
 title: "Introduction"
+portail: linguistique
 menu:
-  docs:
+  linguistique:
     parent: general
     weight: 1
 ---

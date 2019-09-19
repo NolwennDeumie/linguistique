@@ -1,7 +1,7 @@
 baseURL = "https://nolwenndeumie.github.io/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
-title = "Linguistique"
+title = "Révisions LLCE"
 theme = "hugo-royal-theme"
 
 [social]
@@ -19,33 +19,39 @@ weight = 2
 identifier = "don"
 url = "https://paypal.me/nolwenndeumie"
 
-[[menu.docs]]
+[[menu.general]]
+name = "Liste des portails"
+weight = 10
+identifier = "portails"
+url = "/portails/"
+
+[[menu.linguistique]]
 name = "Général"
 weight = 10
 identifier = "general"
 
-[[menu.docs]]
+[[menu.linguistique]]
 name = "Le groupe verbal"
 weight = 15
 identifier = "gv"
 
-[[menu.docs]]
-name = "Le groupe nominal"
-weight = 20
-identifier = "gn"
+[[menu.civilisation]]
+name = "History of the United States"
+weight = 10
+identifier = "us"
 
-[[menu.docs]]
+[[menu.docs_meta]]
 name = "A propos"
 weight = 25
 identifier = "meta"
 
-[[menu.docs]]
+[[menu.docs_meta]]
 name = "Faire un don"
 parent = "meta"
 weight = 26
 url = "https://paypal.me/nolwenndeumie"
 
-[[menu.docs]]
+[[menu.docs_meta]]
 name = "Code source"
 parent = "meta"
 weight = 27

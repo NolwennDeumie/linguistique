@@ -1,8 +1,9 @@
 ---
 title: "Discours rapporté"
 tocmaxdepth: 1
+portail: linguistique
 menu:
-  docs:
+  linguistique:
     parent: gv
     weight: 4
 ---
@@ -43,7 +44,7 @@ b. Le **discours indirect libre**, dans lequel, malgré l'absence d'un verbe int
 
 > [Peter Watson] waited for the train to come. Would the driver see him? It was very unlikely, for this was the main line, London, Doncaster, York, [...]. (R.Dahl, nouvelle extraite de **The wonderful Story of Henry Sugar and Six More**)
 
-Dans la seconde et la troisième phrase, on a affaire à du discours indirect libre : ce qui est décrit est la pensée du personnage Peter Watson. Le discours indirect **explicite** correspondant pourrait être : 
+Dans la seconde et la troisième phrase, on a affaire à du discours indirect libre : ce qui est décrit est la pensée du personnage Peter Watson. Le discours indirect **explicite** correspondant pourrait être :
 
 > He asked himself if the driver would see him. He decided that it was very unlikely, for this was the main line [...].
 

@@ -1,7 +1,8 @@
 ---
 title: "Be, have et get"
+portail: linguistique
 menu:
-  docs:
+  linguistique:
     parent: gv
     weight: 2
 ---
@@ -10,7 +11,7 @@ menu:
 
 *Be* et *have* sont polyvalents, ils possèdent tantôt les caractéristiques syntaxiques des auxiliaires (négation et interrogation directes, i.e. sans *do*), tantôt celles des verbes.
 
-- *Be* a le plus souvent les caractéristiques des auxiliaires : 
+- *Be* a le plus souvent les caractéristiques des auxiliaires :
 
 > He is reading. He is not reading. Is he reading ? / He is English. He is not English. Is he English ?
 
@@ -43,7 +44,7 @@ Prétérit.
 
 --- | ~~I~~ | ~~He~~ | ~~We~~
 --- | --- | --- | ---
-Formes positives | ~~was~~ | ~~was~~ (formes orales : /wɒz/ /wəz/) | ~~were~~ 
+Formes positives | ~~was~~ | ~~was~~ (formes orales : /wɒz/ /wəz/) | ~~were~~
 Formes négatives contractées | ~~wasn't~~ | ~~wasn't~~ | ~~weren't~~
 
 *Be*, contrairement à tous les auxiliaires ou verbes, possède un subjonctif prétérit dont la forme est ~~were~~ à toutes les personnes.
@@ -62,7 +63,7 @@ Formes négatives contractées | ~~'ve not~~ ou ~~haven't~~ | ~~'s not~~ ou ~~ha
 
 Avec *have got*, la forme contractée est obligatoirement ~~haven't got~~ / ~~hasn't got~~.
 
-Prétérit. 
+Prétérit.
 
 Forme positive non contractée | ~~had~~ à toutes les personnes
 --- | ---
@@ -82,7 +83,7 @@ De manière générale, *be* et *have* servent tous deux à situer un élément 
 
 Ensemble des objets "à Mary" ← ~~the car~~
 
-- Dans le cas de *have*, c'est le **complément** (ou en général ce qui se trouve immédiatement après *have*) qui est situé dans la catégorie à laquelle on se réfère. Cette dernière est toutefois définie par rapport à un sujet : c'est ce qu'on appelle de manière générale **l'univers du sujet**. 
+- Dans le cas de *have*, c'est le **complément** (ou en général ce qui se trouve immédiatement après *have*) qui est situé dans la catégorie à laquelle on se réfère. Cette dernière est toutefois définie par rapport à un sujet : c'est ce qu'on appelle de manière générale **l'univers du sujet**.
 Le sens de *have* est beaucoup plus large que la simple possession.
 
 > Mary has a car.
@@ -125,7 +126,7 @@ Ce n'est pas toujours l'équivalent de "il y a". On ne peut notamment pas l'util
 
 Ne pas confondre le ~~there~~ de cette construction (souvent appelé ~~there~~ **existentiel**) avec le ~~there~~ ayant une fonction d'adverbe (~~There's a taxi over **there**~~).
 
-- Le sujet réel se situe après l'auxiliaire : 
+- Le sujet réel se situe après l'auxiliaire :
 
 > There is **a car** in the street.
 
@@ -165,7 +166,7 @@ De façon générale, on trouve un certain nombre d'emplois dans lesquels *have*
 
 > He has/takes a shower once a day. Il **prend** une douce une fois par jour.
 
-> Have a good time ! **Amusez**-vous bien ! 
+> Have a good time ! **Amusez**-vous bien !
 
 > Did you have a good journey ? Vous avez **fait** bon voyage ?
 
@@ -179,7 +180,7 @@ De façon générale, on trouve un certain nombre d'emplois dans lesquels *have*
 
 La particule *got* est à l'origine le participe passé du verbe *get*. Origine facile à comprendre : si on "a obtenu", alors on "a". Il ne faut cependant pas confondre les deux formes. L'idée d'obtenir a complètement disparu de l'emploi actuel de *have got* : ~~She's got blue eyes.~~ Il ne reste plus qu'un sens statif.
 
-{{% small %}} L'anglais américain fait la différence entre le participe passé de *get* (généralement *gotten*) et la particule de *have got* : 
+{{% small %}} L'anglais américain fait la différence entre le participe passé de *get* (généralement *gotten*) et la particule de *have got* :
 
 > We've got a problem. Nous avons un problème.
 

@@ -1,8 +1,9 @@
 ---
 title: "Auxiliaires et verbes"
 tocmaxdepth: 1
+portail: linguistique
 menu:
-  docs:
+  linguistique:
     parent: gv
     weight: 1
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Présent"
 tocmaxdepth: 2
+portail: linguistique
 menu:
-  docs:
+  linguistique:
     parent: gv
     weight: 3
 ---
@@ -19,8 +20,8 @@ Comme evoqué dans les chapitres précédents, l'élément présent ou prétéri
 
 ### Prononciation du -s à la 3e personne du singulier
 
-/ɪz/ ou /əz/ (selon variété d'anglais) |     /s/      |       /z/ 
------------------------------------- | ------------ | ---------------- 
+/ɪz/ ou /əz/ (selon variété d'anglais) |     /s/      |       /z/
+------------------------------------ | ------------ | ----------------
 après les sons /s/ /z/ /ʃ/ /tʃ/ /ʒ/ /dʒ/ (terminaisons écrites **-s**, **-x**, **-z**, **-ch**, **-sh**, **-ce** ou **-ge**) | après les **consonnes sourdes** /p/ /t/ /k/ /f/ et /θ/ | après les **consonnes sonores** /b/ /d/ /g/ /v/ et après les voyelles
 
 Le choix entre /s/ et /z/ dépend simplement de la facilité de prononciation. /s/ n'est employé que quand il est difficile de prononcer /z/.
@@ -41,7 +42,7 @@ L'emploi de la forme du présent indique que l'énonciateur place son point de v
 
 Avec le présent simple, le point de vue sur l'événement est un point de vue **global**, ça permet d'expliquer la différence entre présent simple et BE + -ING.
 
-### Principaux emplois du présent simple 
+### Principaux emplois du présent simple
 
 - Événements qui coïncident plus ou moins avec le moment de l'énonciation et qui sont considérés en bloc (i.e. dans l'entièreté de leur durée). Ce dernier point est important ; on notera dans les exemples qui suivent qu'on n'emploie pas BE + -ING malgré que l'événement soit entrain de se produire au moment où on parle.
 
@@ -96,4 +97,3 @@ Avec le présent simple, le point de vue sur l'événement est un point de vue *
 > I hope / I bet he succeeds.
 
 L'emploi du présent simple peut s'expliquer par le caractère évident de la référence au futur, qui n'a pas besoin d'être explicité. L'emploi de ~~will~~ est également possible mais indique une idée de prévision. {{% /small %}}
-
