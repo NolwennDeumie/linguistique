@@ -13,6 +13,12 @@ weight = 1
 identifier = "twitter"
 url = "https://twitter.com/IWannaSlytherIn"
 
+[[menu.global]]
+name = "Faire un don"
+weight = 2
+identifier = "don"
+url = "https://paypal.me/nolwenndeumie"
+
 [[menu.docs]]
 name = "Général"
 weight = 10
@@ -29,11 +35,18 @@ weight = 20
 identifier = "gn"
 
 [[menu.docs]]
-name = "GitHub"
+name = "A propos"
 weight = 25
 identifier = "meta"
 
 [[menu.docs]]
+name = "Faire un don"
+parent = "meta"
+weight = 26
+url = "https://paypal.me/nolwenndeumie"
+
+[[menu.docs]]
 name = "Code source"
 parent = "meta"
+weight = 27
 url = "https://github.com/NolwennDeumie/linguistique"
