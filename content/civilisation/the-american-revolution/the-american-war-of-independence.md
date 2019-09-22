@@ -38,7 +38,7 @@ On January 10, **1776**, **Thomas Paine** published a pamphlet called ***Common 
 
   
 
-**Between 1776 and 1780, the American States gave themselves written constitutions based on faith into public vertus.**
+**Between 1776 and 1780, the American States gave themselves written constitutions based on faith into public virtues.**
 The texts planned two assemblies and annual elections: the democratic principle was adopted everywhere by **censitary suffrage** (*suffrage censitaire, opposé au suffrage équivalent, les votes n’ont pas la même valeur en fonction du rang de la personne*), but not in Vermont where universal suffrage was granted to white men.
 
 The [**Constitution of Virginia**](https://fr.wikipedia.org/wiki/Constitution_de_Virginie) (June 1776) affirmed human rights, some of which would be taken up (*reprendre qch*) in the United States Declaration of Independence: **it’s the first time in human History that a constitutional text stated universal and inalienable rights**. The Constitution of Pennsylvania (September 1776) implemented [conscientious objection](https://fr.wikipedia.org/wiki/Objection_de_conscience) (= objection de conscience) and religious tolerance. The constitutions of five States out of thirteen stated the need of public instruction.
@@ -93,7 +93,7 @@ On November 15, **1777**, the [**Articles of Confederation and Perpetual Union**
 
 Then, the United States created and ambassad, a national Treasury (*Trésor public*) and a bank. Titles of nobility were abolished and the first ministries were implemented.
 
-The Articles of Confederation were put in place only after being ratified by the States, i.e. in March 1781. However, for its financial resources, Congress mostly depended on the willing of the States. Nothing was intended for the Congress to prevail its authority on the States, the belief in public vertu being so strong.
+The Articles of Confederation were put in place only after being ratified by the States, i.e. in March 1781. However, for its financial resources, Congress mostly depended on the willing of the States. Nothing was intended for the Congress to prevail its authority on the States, the belief in public virtue being so strong.
 
   
 
