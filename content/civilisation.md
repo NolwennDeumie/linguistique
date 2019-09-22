@@ -9,6 +9,8 @@ menu:
     weight: 2
 ---
 
+Disclaimer : Ce que vous trouverez ici est principalement une traduction allégée et retravaillée des différentes pages Wikipédia.
+
 - The American Revolution
   - [Introduction](introduction)
   - [Context: the Thirteen British Colonies around 1775](context)
