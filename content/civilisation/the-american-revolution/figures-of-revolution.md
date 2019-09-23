@@ -13,8 +13,7 @@ menu:
 
 The most famous had political positions, first in their own States, then higher: **George Washington, John Adams, Thomas Jefferson and James Madison where the first four POTUS.** Others were known for their speaking skills like **Patrick Henry**, their diplomatic actions like **John Jay** or **Benjamin Franklin**, or even their written work like **Thomas Paine** or **John Dickinson**.
 
-![Thomas Jefferson by Charles Willson Peale, 1791](/images/civilisation/Jefferson-peale.jpg)
-{{% small %}} *Thomas Jefferson* by Charles Willson Peale, 1791 {{% /small %}}
+{{< figure src="/images/civilisation/Jefferson-peale.jpg" caption="Thomas Jefferson by Charles Willson Peale, 1791" >}}
 
 ## Loyalists
 
@@ -28,17 +27,16 @@ During the First Continental Progress (1774), **Joseph Galloway** wanted to reco
 
 They participated in various ways to the Revolution: in the 1770’s, **they boycotted British merchandises and sewed their own clothes in order to avoid wearing British clothing**. They organized demonstrations like the [**Edenton Tea Party**](https://fr.wikipedia.org/wiki/Edenton_Tea_Party) **in 1774** and took part in the Boston riots. During the conflict, **they made blankets and uniforms for the army**. Some organizations, like the _Ladies’ Association_ in Philadelphia, **collected funds** to help the troops. Others followed the continental army and **served soldiers by doing the laundry, cooking and healing the wounded, or even by spying or fighting**.
 
-Some women like **Deborah Simpson** dressed up as men to go on the battlefield. Others had an important role in the intelligence (= renseignement) by passing messages to soldiers.  
-The officers’ wives frequently visited the troops, like **Martha Washington**.  
-  
+Some women like **Deborah Simpson** dressed up as men to go on the battlefield. Others had an important role in the intelligence (= renseignement) by passing messages to soldiers.
+The officers’ wives frequently visited the troops, like **Martha Washington**.
+
 **But women were also victims of the war by being confronted to such violence. They lived in fear of rape and had sometimes to defend their home alone.**
 
 Lots of them became widows. Loyalist women had, for the majority of them, to follow their husbands to Canada or the British Antilles. Others chose resistance by refusing to swear (= prêter serment) to the new government or by hiding their husbands and savings.
 
 **The political role of women was limited**: however, **Abigail Adams** or **Mercy Otis Warren**, a political writer and propagandist of the Revolution, had some influence.
 
-![Mercy Otis Warren by John Singleton Copley, 1763](/images/civilisation/Mercy_Otis_Warren.jpg)
-{{% small %}} *Mercy Otis Warren* by John Singleton Copley, 1763 {{% /small %}}
+{{< figure src="/images/civilisation/Mercy_Otis_Warren.jpg" caption="Mercy Otis Warren by John Singleton Copley, 1763" >}}
 
 After the Revolution, women were instrumentalized to teach republican values to their children.
 
@@ -46,15 +44,15 @@ After the Revolution, women were instrumentalized to teach republican values to 
 
 Afro-Americans also participated to the revolution on various scales.
 
-**Lots of black people took part in the fight next to the British**. In April 1775, **Lord Dunmore**, governor of Virginia, **offered liberty to the blacks who would fight against the patriots and abandon their masters.** He even created the “**Ethiopian Regiment**”, counting around 500 former slaves.  
-In June 1776, British general Henry Clinton did the same in Phillipsburg.  
+**Lots of black people took part in the fight next to the British**. In April 1775, **Lord Dunmore**, governor of Virginia, **offered liberty to the blacks who would fight against the patriots and abandon their masters.** He even created the “**Ethiopian Regiment**”, counting around 500 former slaves.
+In June 1776, British general Henry Clinton did the same in Phillipsburg.
 In 1779, around 10.000 Afro-Americans had joined the British troops. Thousands of those black loyalists were listed in the **Book of Negroes**, evacuated in London or New-Scotland and then installed in Freetown, Sierra Leone.
 
 5.000 blacks fought with the insurgents and numerous of them were freed. However, commander **George Washington forbid their presence in the continental army at first**: after Lord Dunmore’s decision, Washington came back on his decision and authorized military engagement first for the free blacks, then for the slaves. Georgia lost ⅓ of its salves at that time.
 
 Lots of slaves also took advantage of the conflict to run away.
 
-Black people obtained some emancipation in central states (Philadelphia) and in New-England where they were few. **Slavery was abolished in 1777 in Vermont, in 1780 in Pennsylvania, in 1783 in Massachusetts.**  
+Black people obtained some emancipation in central states (Philadelphia) and in New-England where they were few. **Slavery was abolished in 1777 in Vermont, in 1780 in Pennsylvania, in 1783 in Massachusetts.**
 However, the **American Declaration of Independence did not abolish slavery and the Constitution did not implement civic equality, in order not to discontent the Southern States**.
 
 Thousands migrated to the North to be free, or to the West to be farmers. Loyalists fled with their slaves.

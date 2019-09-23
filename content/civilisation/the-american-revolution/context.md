@@ -28,10 +28,10 @@ The feudal system being absent, another hierarchy existed, **based on land owner
 
 Sailors, shopkeepers, bartenders and servants were at the bottom of the social ladder. The **indentured servants** constituted a white sub-proletariat whose living conditions were close to the slaves’ ones: they were prisoners, women and children sent by will or by force in the **New World** to populate it and being farmers.
 
-As soon as the colonial era started, **social disparities grew bigger and bigger**. Different settlers’ groups had different interests that created tensions or even riots in cities and countryside. The elites were conscious of the issue and wanted to maintain social order and protect their properties. Others suffered more from **British economic measures and land inequalities**. Social tensions were inflamed by some preachers’ actions and relayed through inns (= auberges) and taverns.  
+As soon as the colonial era started, **social disparities grew bigger and bigger**. Different settlers’ groups had different interests that created tensions or even riots in cities and countryside. The elites were conscious of the issue and wanted to maintain social order and protect their properties. Others suffered more from **British economic measures and land inequalities**. Social tensions were inflamed by some preachers’ actions and relayed through inns (= auberges) and taverns.
 Newspapers also had an impact on the revolutionary feeling.
 
-There were **lots of Afro-Americans**: between 1750 and 1780, they went from 236.000 to 575.000 beings. Most black people were in **Southern states and enslaved**. However, a minority were free and lived in the cities.  
+There were **lots of Afro-Americans**: between 1750 and 1780, they went from 236.000 to 575.000 beings. Most black people were in **Southern states and enslaved**. However, a minority were free and lived in the cities.
 Native Americans were between 100.000 and 200.000.
 
 ## Government
@@ -54,8 +54,7 @@ Trade encouraged textile and metal industry. It also eased the creation of shipy
 
 In **central colonies**, **farming** was diversified and **breeding** was everywhere.
 
-**Southern colonies** lived from **tobacco**, **cereals** and **indigo** exportation thanks to a humid subtropical climate. Planters had slaves working in huge plantations. White aristocracy lived on their estates (= domaines) and had quite pretty residences. However, the plantation system wasn’t quite the one that lasted until the Civil War, it was brought by French landowners fleeing from slaves’ riots in 1798.  
+**Southern colonies** lived from **tobacco**, **cereals** and **indigo** exportation thanks to a humid subtropical climate. Planters had slaves working in huge plantations. White aristocracy lived on their estates (= domaines) and had quite pretty residences. However, the plantation system wasn’t quite the one that lasted until the Civil War, it was brought by French landowners fleeing from slaves’ riots in 1798.
 South was mostly rural and not so populated.
 
-![George Washington's estate, Mount Vernon](/images/civilisation/Vernon.jpg)
-{{% small %}} George Washington's estate, Mount Vernon, in virginia {{% /small %}}
+{{< figure src="/images/civilisation/Vernon.jpg" caption="George Washington's estate, Mount Vernon, in Virginia" >}}

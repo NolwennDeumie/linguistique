@@ -9,15 +9,14 @@ menu:
 ---
 
 In the beginning of year 1775, Americans plundered (*piller*) armories and organized militias. However, the american forces were way inferior compared to the british army, quality and means included. Violent actions multiplied: in a speech made in St. John church in Richmond, Virginia, Patrick Henry declared *“Give me liberty, or give me death!”*.
-  
+
 
 ## First fights in the North, 1775
 
 
-The first battle opposing British soldiers to Americans was the **Lexington and Concord** one, a few kilometers west of Boston (April 1775): this skirmish (= escarmouche), which end was in favor of the insurgents, caused 73 British deaths and 49 American deaths. It was the beginning of a guerilla.  
+The first battle opposing British soldiers to Americans was the **Lexington and Concord** one, a few kilometers west of Boston (April 1775): this skirmish (= escarmouche), which end was in favor of the insurgents, caused 73 British deaths and 49 American deaths. It was the beginning of a guerilla.
 
-![Lexington's battle, engraving, 1775](/images/civilisation/Lexington.jpeg)
-{{% small %}} Lexington's battle, engraving, 1775 {{% /small %}}
+{{< figure src="/images/civilisation/Lexington.jpeg" caption="Lexington's battle, engraving, 1775" >}}
 
 **On May 10th, 1775 was the first reunion of the Second Continental Congress in Philadelphia**. This congress **named George Washington as the head of the continental army**. The general had to deal with seriously undisciplined troops. At the beginning of the war, money lacked to pay soldiers and desertion was frequent. However, Americans were deeply determined.
 
@@ -38,23 +37,22 @@ In **Philadelphia**, after numerous debates, **the Continental Congress voted th
 ## British movement to the center, 1776-1777
 
 After Long Island’s victory in August 1776, **British troops occupied New-York city** in September. The American troops had to withdraw to New Jersey. **Philadelphia was occupied in Fall 1777**: the Congress had to flee the city as well as two thirds of the population. Washington was defeated in Pennsylvania and had to go to Valley Forge for the Winter, in awful conditions. However, **after Saratoga’s battle**, in the state of New-York, **British commander John Burgoyne had to surrender in Horatio Gates in October 1777**. This American victory encouraged **France to engage in war, helping the insurgents**.
-  
-![Washington's headquarters in Valley Forge](/images/civilisation/WashingtonHeadquarters-ValleyForge.jpg)
-{{% small %}} Washington's headquarters in Valley Forge {{% /small %}}
+
+{{< figure src="/images/civilisation/WashingtonHeadquarters-ValleyForge.jpg" caption="Washington's headquarters in Valley Forge" >}}
 
 ## French alliance and final victory, 1778-1783
 
 An **alliance treaty got ratified in February 1778**, in Paris, between France and the United States, thanks to Benjamin Franklin’s diplomatic action. French hoped to get their revenge on Great Britain. Spain joined the alliance in May 1779, followed by the Dutch Republic in 1780.
 
-**In June 1778, British troops left Philadelphia in order to go defend New-York, threatened by a French maritime intervention**. As of (*à partir de*) 1779, the British attacked the Southern states. 
+**In June 1778, British troops left Philadelphia in order to go defend New-York, threatened by a French maritime intervention**. As of (*à partir de*) 1779, the British attacked the Southern states.
 
 **Between May 1780 and September 1781, a series of battles happened in South Carolina**, sometimes in favor of London, sometimes in favor of the Americans. **The British defeat during the battle of Yorktown, Virginia, in October 1781**, marked a turning point in the war.
 
-![French general Rochambeau and general Washington giving their orders for Yorktown in 1781, by Auguste Couder, 1836](/images/civilisation/Yorktown.jpg)
-{{% small %}} *French general Rochambeau and general Washington giving their orders for Yorktown in 1781* by Auguste Couder, 1836 {{% /small %}} 
+{{< figure src="/images/civilisation/Yorktown.jpg" caption="French general Rochambeau and general Washington giving their orders for Yorktown in 1781, by Auguste Couder, 1836" >}}
 
-![Capitulation of British general Cornwallis in Yorktown by John Trumbull, 1820](/images/civilisation/capitulation-cornwallis.png)
-{{% small %}} *Capitulation of British general Cornwallis in Yorktown* by John Trumbull, 1820 {{% /small %}}
+<p>
+
+{{< figure src="/images/civilisation/capitulation-cornwallis.png" caption="Capitulation of British general Cornwallis in Yorktown, by John Trumbull, 1820" >}}
 
 The **House of Commons** adjudicated (*se prononcer*) for the end of the war on February 1782, British Prime Minister Lord North resigned in 1782. **Negotiations started with the Crown and a preliminary treaty was agreed on November 30th, 1782**.
 
@@ -66,8 +64,7 @@ The **Peace of Paris**, signed the same year, resolved the litigations between G
 
 The american unity advanced in 1777 : a flag was adopted in June.
 
-![The first American flag](/images/civilisation/flag.png)
-{{% small %}} The first American flag {{% /small %}}
+{{< figure src="/images/civilisation/flag.png" caption="The first American flag" >}}
 
 The coordination of military efforts against Great Britain and the supplies given to the Continental army drove the Americans to unite. Loans and the debt reimbursement also needed a reinforcement of federalist centralization: the war of Independence led to the union of the old colonies.
 

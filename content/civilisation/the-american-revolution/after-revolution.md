@@ -39,16 +39,15 @@ However, **the French Declaration went on a different path than its American sis
 
 **Numerous painters were inspired by the Revolution or the Founding Fathers, like John Trumbull**. **Charles Willson Peale got famous thanks to his portraits** of Alexander Hamilton, John Adams, John Dickinson or even George Washington. Other well-known portraitists were James Peale, James Sharples and Gilbert Stuart.
 
-![Alexander Hamilton by John Trumbull, 1805](/images/civilisation/hamilton.jpg)
-{{% small %}} *Alexander Hamilton* by John Trumbull, 1805 {{% /small %}}
+{{< figure src="/images/civilisation/hamilton.jpg" caption="Alexander Hamilton by John Trumbull, 1805" >}}
 
-![Official portrait of George Washington by Gilbert Stuart, 1796](/images/civilisation/washington.jpg)
-{{% small %}} *Official portrait of George Washington* by Gilbert Stuart, 1796 {{% /small %}}
+<p>
+
+{{< figure src="/images/civilisation/washington.jpg" caption="Official portrait of George Washington by Gilbert Stuart, 1796" >}}
 
 **The Revolution deeply changed arts, as Americans wanted to create their very own styles and emancipate themselves from the European ways**. It influenced architecture: Jefferson wanted to create buildings that would reflect its republican and democratic ideals. This is the birth of the **Federal architecture**.
 
-![Elfreth's Alley in Philadelphia](/images/civilisation/federal-architecture.jpg)
-{{% small %}} Elfreth’s Alley in Philadelphia features Federal-style homes and in referred to as “Our nation’s oldest residential street”, dating to 1702. By Busterfreak at English Wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=11565315 {{% /small %}}
+{{< figure src="/images/civilisation/federal-architecture.jpg" caption="Elfreth’s Alley in Philadelphia features Federal-style homes and in referred to as “Our nation’s oldest residential street”, dating to 1702. By Busterfreak at English Wikipedia, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=11565315" >}}
 
 Since the debuts of cinema, several movies dealt with the War of Independence: _1776, or the Hessian Renegades_, directed by D.W. Griffith in 1909 or _Scouting for Washington_ in 1917.
 
@@ -56,7 +55,6 @@ Literature also tackled the subject: _Paul Revere and the World He Lived In_ by 
 
 We can find several memorials throughout the thirteen original states, especially in Boston, New-York and Philadelphia. The _Freedom Trail_ in Boston, the Independence Hall in Philadelphia or the Federal Hall National Memorial in New-York are important landmarks linked to the Revolution.
 
-![The Independence Hall in Philadelphia](/images/civilisation/Independence_Hall.jpg)
-{{% small %}} The Independence Hall in Philadelphia {{% /small %}}
+{{< figure src="/images/civilisation/Independence_Hall.jpg" caption="The Independence Hall in Philadelphia" >}}
 
 One must remember that Washington D.C. was built after the Revolution. The city pays tribute to the Founding Fathers. You can find the most famous paintings of John Trumbull in the Capitol.

@@ -13,8 +13,7 @@ After the **Seven Years’ war**, British authorities started to think about the
 
 In America, local laws, elaborated by assemblies and approved by the King, were in principle inferior to british laws, voted by the Parliament. However, colonial assemblies didn’t hesitate to impinge (= empiéter) on governors’ prerogatives by using their scrutiny right (= droit de regard). **Fearing an expansion** of the Thirteen Colonies to the West, London tried to strengthen its authority after 1763.
 
-![King George III by Allan Ramsay, 1765](/images/civilisation/george-III.jpg)
-{{% small %}} *King George III in coronation robes* by Allan Ramsay, 1765 {{%/ small %}}
+{{< figure src="/images/civilisation/george-III.jpg" caption="King George III in coronation robes by Allan Ramsay, 1765" >}}
 
 ## Economic litigation (= contentieux)
 
@@ -37,9 +36,8 @@ However, there were **several issues between settlers and between the colonies**
 At the end of the 18th century, **Philadelphia was the “true center of the revolutionary Lumières”**, especially under the impulsion of Benjamin Franklin. The city was, along with Boston, the principal publication center of the Thirteen Colonies and the **Pennsylvania Gazette** played a major role during the American Revolution. Benjamin Franklin even created a discussion group called **The American Philosophical Society**.
 Elites and the **Founding Fathers** read European philosophers like John Locke, Charles de Montesquieu, Hugo Grotius, Cesare Beccaria, Henry Home or Thomas Hobbes.
 
-British philosopher **John Locke**’s theories particularly influenced the figures of the American Revolution: the [social contract theory](https://fr.wikipedia.org/wiki/Th%C3%A9ories_du_contrat_social) implicated the natural right of the people to change their leaders with elections or other means. The Founding Fathers drew from (= puiser) the analysis of the British constitution by **Montesquieu**, but also in the British texts ([Habeas Corpus](https://fr.wikipedia.org/wiki/Habeas_Corpus), [**Bill of Rights**](https://fr.wikipedia.org/wiki/D%C3%A9claration_des_droits)) in order to write the constitutions of the states and the country.  
-  
+British philosopher **John Locke**’s theories particularly influenced the figures of the American Revolution: the [social contract theory](https://fr.wikipedia.org/wiki/Th%C3%A9ories_du_contrat_social) implicated the natural right of the people to change their leaders with elections or other means. The Founding Fathers drew from (= puiser) the analysis of the British constitution by **Montesquieu**, but also in the British texts ([Habeas Corpus](https://fr.wikipedia.org/wiki/Habeas_Corpus), [**Bill of Rights**](https://fr.wikipedia.org/wiki/D%C3%A9claration_des_droits)) in order to write the constitutions of the states and the country.
+
 **Republicanism** was one of the major ideological principles in the colonies on the verge of revolution. Settlers criticized the **court’s ostentatious luxe** and proposed a republican virtue. The idea that men had the civic duty to fight for their country emerged.
 
-![The Encyclopédie's frontispiece, drawn by Charles-Nicolas Cochin and engraved by Bonaventure-Louis Prévost, 1772](/images/civilisation/frontispice.jpg)
-{{% small %}} The Encyclopédie's frontispiece, drawn by Charles-Nicolas Cochin and engraved by Bonaventure-Louis Prévost, 1772 {{% /small %}}
+{{< figure src="/images/civilisation/frontispice.jpg" caption="The Encyclopédie's frontispiece, drawn by Charles-Nicolas Cochin and engraved by Bonaventure-Louis Prévost, 1772" >}}
