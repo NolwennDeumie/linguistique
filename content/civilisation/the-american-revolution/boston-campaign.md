@@ -12,4 +12,4 @@ It is often said that the American war of Independence began with the British on
 
 On September 1st, 1774, british soldiers confiscated powder supplies and weapons from the militia during a surprise action near Boston. This expedition alarmed the entire country and american patriots ran into action, persuaded war had begun. Even though this alarm was false, it enticed everyone to be more careful.
 
-For more info about Boston campaign, see [Wikipedia](https://fr.wikipedia.org/wiki/Campagne_de_Boston).
+For more info about the Boston campaign, see [Wikipedia](https://fr.wikipedia.org/wiki/Campagne_de_Boston).
