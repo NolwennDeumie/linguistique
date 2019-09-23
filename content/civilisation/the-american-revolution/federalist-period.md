@@ -7,7 +7,7 @@ menu:
     weight: 7
 ---
 
-The new Congress got elected in January 1789, in April, **George Washington was chosen unanimously to be the United States’ first President and installed his office in New-York**, provisory capital of the country, where he swore on the bible. In September, a Bill of Rights was added to the Constitution by the Congress, it got ratified on December 15, 1791.
+The new Congress got elected in January 1789. In April, **George Washington was chosen unanimously to be the United States’ first President and installed his office in New-York**, provisory capital of the country, where he swore on the bible. In September, a Bill of Rights was added to the Constitution by the Congress, it got ratified in December 1791.
 
 Debates went on about the role of the federal state: **federalists joined Alexander Hamilton and desired a strong federal power; they were against egalitarianism**. **The republicans, or anti-federalists, joined Thomas Jefferson and wanted a limited federal government**. French Revolution accentuated the differences between the two parties: **while federalists rejected the radical turn events took in 1793, Republicans were enthusiastic about equality and French democracy**. George Washington preferred neutrality towards France and its enemy Great Britain, which stayed America’s first business partner. The **Jay Treaty**, which got ratified in 1794, was supposed to solve some disagreements that occurred after the war of Independence between the United States and London, **it was considered a treason to France.**
 

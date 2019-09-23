@@ -19,3 +19,4 @@ However, the first few years of the country were filled with of political opposi
 
 The American Revolution created a new **federal republic** with new institutions. The American nation emerged with its own symbols and founding myths. It had a substantial (= important) impact on Europe, especially France.
 
+If you want to explore and go further, I recommend this wonderful [website](https://allthingsliberty.com/) called "Journal of the American Revolution".
