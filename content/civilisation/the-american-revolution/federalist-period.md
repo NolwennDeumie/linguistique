@@ -1,9 +1,10 @@
 ---
-title: "The federalist period"
+title: "The federalist period, 1789-1801"
 portail: civilisation
 menu:
   civilisation:
     parent: us
+    name: "The federalist period"
     weight: 7
 ---
 

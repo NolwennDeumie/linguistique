@@ -1,10 +1,10 @@
 ---
-title: "Confederation period"
+title: "Confederation period, 1781-1789 "
 portail: civilisation
 menu:
   civilisation:
     parent: us
-    title: "Confederation period"
+    name: "Confederation period"
     weight: 6
 ---
 

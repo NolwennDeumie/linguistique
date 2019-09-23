@@ -1,9 +1,10 @@
 ---
-title: "The American war of Independence"
+title: "The American war of Independence, 1775-1783"
 portail: civilisation
 menu:
   civilisation:
     parent: us
+    name: "The war of Independence"
     weight: 5
 ---
 

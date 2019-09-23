@@ -4,6 +4,7 @@ portail: civilisation
 menu:
   civilisation:
     parent: us
+    name: "Context"
     weight: 2
 ---
 
