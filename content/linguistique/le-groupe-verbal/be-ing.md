@@ -127,4 +127,33 @@ On en a fait un récit au présent dans les 3 cas. On voit aussi apparaître dan
 
 ### L'énonciateur et le sujet
 
-Pour rappel, la forme progressive exprime clairement le rattachement du sujet à l'événement exprimé par le verbe, donc que l'énonciateur choisit de mettre en évidence la participation du sujet audit événement.
+Pour rappel, la forme progressive exprime clairement le rattachement du sujet à l'événement exprimé par le verbe, donc que l'énonciateur choisit de mettre en évidence la participation du sujet audit événement. C'est une insistance qui n'est pas impliquée par la forme simple. 
+La participation du sujet impliquée par BE + -ing est souvent interprétable comme une intention du sujet ou de l'énonciateur, mais ce n'est pas toujours le cas.
+
+> I'm leaving tomorrow.
+> Brian is leaving tomorrow. (soit intention de Brian, soit obligation faite à Brian par l'énonciateur)
+> You are not sitting here. (intention de l'énonciateur)
+> We're having a baby. (pas d'intention)
+
+{{% small %}} L'implication du sujet étant souvent interprétée comme une mise en relief de son rôle d'agent (i.e. son rôle d'auteur de l'action), utiliser la forme progressive est difficile quand le sujet n'est pas agent, comme avec les états. Nous verrons cela un peu plus loin dans le chapitre. {{% /small %}}
+
+Les formes simple et progressive peuvent s'employer au présent ou au prétérit pour exprimer un événement futur par rapport au moment que l'on considère (moment ou l'on parle ou moment passé) : 
+
+> I'm having lunch with Tom tomorrow.
+> I couldn't accept the invite as I was having lunch with Tom the next day.
+> There's no hurry, the train leaves at 12.30.
+> There was no hurry, the train left at 12.30.
+
+Dans tous les cas, il est nécessaire d'avoir un complément de temps, il faut rattacher l'événement à un moment déterminé sauf sous-entendu très très évident (~~I'm having lunch with Tom.~~ signigie ~~today~~). Les deux formes décrivent dans ce cas une situation déjà organisée et donc déjà vraie au moment qui sert de repère. La différence se situe au niveau de la prise de position de l'énonciateur. Soit l'organisation est totalement impersonnelle et extérieure (forme simple), soit l'énonciateur implique le sujet ou sa propre personne (forme progressive). Cela explique pourquoi une phrase telle que ~~The flight to Madrid is leaving at 14.20.~~ serait peu concevable dans une annonce officielle d'aéroport, mais tout à fait vraisemblable si énoncée par un employé qui s'adresse à un voyageur qui vient de manquer le vol pour Grenade : ~~... and from Madrid you have another flight to Granada at 18.30. You can make it if you hurry.~~
+
+### Les états et la forme progressive
+
+Généralement, les deux ne vont pas ensemble, mais on trouve des cas où ils sont compatibles :
+
+> It struck me how extraordinarily kind he **was being**.
+
+La compatibilité est due à l'exploitation de la valeur de rattachement à un moment précis, alliée à la valeur modale : l'état est nettement marqué comme temporaire et n'est pas une caractéristique constante, l'énonciateur estime également que l'état dépend d'une volonté délibérée du sujet. ~~Be kind~~ à la forme simple serait un état permanent involontaire, étant donné que c'est un trait de caractère que l'on ne choisit pas.
+
+Cette opération n'est possible qu'avec des états qui peuvent donner prise à la volonté ou qu'on peut simuler (d'où la quasi-impossibilité de ~~He's being tired~~, sinon pour dire *Il joue les fatigués*).
+
+## Actions habituelles et forme progressive
