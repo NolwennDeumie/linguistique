@@ -1,12 +1,12 @@
 ---
-title: "La forme BE + -ING"
+title: "La forme BE + -ing"
 tocmaxdepth: 1
 portail: linguistique
 menu:
   linguistique:
     parent: gv
-    name: "be + -ing"
-    weight: 3
+    name: "Be + -ing"
+    weight: 4
 ---
 
 ## Forme et sens 
@@ -72,16 +72,59 @@ Un **aspect** est la façon d'envisager le déroulement d'une action.
 
 La forme simple indique que l'action est vue dans son ensemble. On parle d'**aspect global**. De ce fait, dans une situation particulière, la forme simple indique que l'action a une conclusion ou une fin. En contraste, la forme progressive indique que l'énonciateur pose que la fin ou la conclusion n'est pas atteinte au moment considéré (ou qu'elle n'est pas prise en compte).
 
-Opposons ~~"What did you do with that old bicycle? I repaired it."~~ et ~~"What were you doing with that old bicycle? I was repairing it.~~
+Opposons ~~"What did you do with that old bicycle? I repaired it."~~ et ~~"What were you doing with that old bicycle? I was repairing it."~~
 
 Dans la première phrase, l'action est vue dans sa globalité, le vélo a été réparé. Dans la seconde en revanche, l'action est vue dans le cours de son déroulement, cela ne dit rien de la conclusion : le vélo n'a peut-être pas été réparé. 
 
 Cette valeur globale de la forme simple est systématiquement utilisée quand il y a plusieurs actions qui se suivent dans le temps, donc quand on fait un récit. 
 
-Il nous faut définir les termes d'état et d'action, essentiels à la compréhension du fonctionnement de la forme progressive (ainsi que pour l'aspect HAVE + -EN).
+Prenons le temps de définir les termes d'état et d'action, essentiels à la compréhension du fonctionnement de la forme progressive (ainsi que pour l'aspect HAVE + -EN).
 
 - Les **états** sont des caractéristiques internes d'objets ou de personnes, ou des relations entre des objets ou des personnes, qui ne doivent rien à la volonté et dont on n'envisage pas d'évolution, donc de déroulement. Les états peuvent être temporaires (~~contain, be asleep~~) ou permanents (~~know, be tall~~).
 
 - Les **actions** indiquent un déroulement (~~run, sing~~), une évolution (~~warm up, improve~~), ou un changement d'état (~~die, leave~~). Les actions peuvent être provoquées par la volonté du sujet, mais ce n'est pas toujours le cas (~~fall, snow~~).
 
 La distinction entre ces deux notions dépend de la langue et ne considère pas toujours ce que nous ressentions intuitivement, ainsi ~~sleep~~ est conçu comme une action (mais ~~be asleep~~ comme un état). ~~Know~~ est un état, ~~learn~~ une action.
+
+### Remarques sur l'aspect
+
+L'opposition aspectuelle des formes simple et progressive ne correspond pas à une différence de durée ! Une action unique sans marqueur peut être longue (~~I read **War and Peace**, it took me six months.~~) et une action marquée par BE + -ing peut être brève (~~I was turning the key in the lock.~~).
+Cependant, certaines actions brèves sont rarement envisagées dans le cours de leur déroulement. Quand elles le sont, le sens concerne plutôt une série d'actions : ~~Big Joe was hitting Tiny Tim.~~ (plusieurs coups ont été donnés.)
+
+Dans certains cas, le point d'observation peut se déplacer et aller à différends points d'une période plus ou moins longue : ~~I was painting during lunch time.~~ Quel que soit le moment choisi pendant l'heure du déjeuner, le personnage peignait. 
+
+### L'emploi performatif
+
+Une catégorie de verbes exige l'emploi de la forme simple dans certaines conditions précises : ~~I swear to tell the truth.~~
+
+Le verbe ~~swear~~ est à la forme simple, même s'il correspond à une action qui se passe au moment précis de l'énonciation. Mais, cet énoncé ne décrit pas l'action de jurer, il l'accomplit. L'action de jurer atteint sa conclusion au moment où les mots ~~I swear~~ sont prononcés, voilà pourquoi on utilise la forme simple, dont c'est une des valeurs. On appelle ces verbes **performatifs** (~~to perform~~ signifiant *accomplir*).
+
+Ces verbes n'ont cet emploi qu'à la 1re personne présent, le reste du temps, il se comporte comme tout autre verbe : 
+
+> He's swearing to tell the truth.
+
+Ici ce n'est pas la personne qui parle qui accomplit l'action, elle le décrit simplement.
+
+Voici quelques verbes qui ont un emploi performatif : 
+
+> I promise, I guarantee, I refuse, I give up, I deny, I suggest, I order, I forbid, I forgive.
+
+Notons par contre le cas courant de ~~I'm warning you~~.
+
+### Reportages, démonstrations et indications scéniques
+
+Le présent simple est souvent employé dans ces différents cas, cet emploi découle de la vision globale de l'action (la valeur aspectuelle de la forme simple). Il s'agit de suites d'actions successives complètes.
+
+> [reportage] Scott kicks the ball towards the touchline, the ball bounces into touch. **Mais** : The players are getting ready for a throw-in. (action vue en cours de déroulement)
+
+> [recette] First, I crack the eggs. Next, I add the sugar.
+
+> [indication scénique] Harold takes off his shoes, crosses from left to right and knocks at the door.
+
+On en a fait un récit au présent dans les 3 cas. On voit aussi apparaître dans les deuxième et troisième exemples une valeur d'instructions à caractère permanent.
+
+## Valeur modale
+
+### L'énonciateur et le sujet
+
+Pour rappel, la forme progressive exprime clairement le rattachement du sujet à l'événement exprimé par le verbe, donc que l'énonciateur choisit de mettre en évidence la participation du sujet audit événement.
